@@ -13,7 +13,7 @@
     "method": "sub-to-sub",
     "offset": 0.08,
     "source": "subdl+wyzie",
-    "updated": "2026-11-19T17:02:53Z"
+    "updated": "2026-11-19T18:29:40Z"
   },
   "603:en": {
     "drift": 1.0,
@@ -21,7 +21,7 @@
     "method": "sub-to-sub",
     "offset": -1.32,
     "source": "subdl+wyzie",
-    "updated": "2026-11-19T17:02:42Z"
+    "updated": "2026-11-19T18:29:36Z"
   },
   "687163:en": {
     "drift": 1.001,
@@ -29,6 +29,6 @@
     "method": "sub-to-sub",
     "offset": -0.26,
     "source": "subdl+wyzie",
-    "updated": "2026-11-19T17:02:31Z"
+    "updated": "2026-11-19T18:29:32Z"
   }
 }
