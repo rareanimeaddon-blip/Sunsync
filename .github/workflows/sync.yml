@@ -1,0 +1,56 @@
+name: Sync subtitles
+
+# Free subtitle auto-sync for Nuvio/Stremio.
+# Every run: for each title in queue.json, fetch the best English subtitle
+# from SubDL + Wyzie (free keys), sync it with ffsubsync, commit the
+# synced .srt to synced/ and update index.json.
+# Providers read index.json from raw.githubusercontent.com — no server.
+#
+# Runs on a schedule (every 6 hours) and on manual dispatch.
+# This repo must stay PUBLIC: GitHub Actions is free without minute
+# limits on public repos.
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}
+  repository_dispatch:
+    types: [sync-request]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Install ffsubsync
+        run: pip install -r requirements.txt
+
+      - name: Sync queued titles
+        env:
+          SUBDL_API_KEY: ${{ secrets.SUBDL_API_KEY }}
+          SUBDL_API_KEY2: ${{ secrets.SUBDL_API_KEY2 }}
+          WYZIE_API_KEY: ${{ secrets.WYZIE_API_KEY }}
+          WYZIE_API_KEY2: ${{ secrets.WYZIE_API_KEY2 }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OPENSUBTITLES_API_KEY: ${{ secrets.OPENSUBTITLES_API_KEY }}
+          SUBSOURCE_API_KEY: ${{ secrets.SUBSOURCE_API_KEY }}
+        run: python sync.py
+
+      - name: Commit synced subtitles + index
+        run: |
+          git config user.name "nuvio-subsync"
+          git config user.email "subsync@users.noreply.github.com"
+          git add synced index.json queue.json
+          git diff --cached --quiet || git commit -m "Sync subtitles [skip ci]"
+          git push
+          
