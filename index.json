@@ -1,0 +1,34 @@
+{
+  "1396:s1e1:en": {
+    "drift": 1.0,
+    "file": "synced/1396-s1e1-en.srt",
+    "method": "sub-to-sub",
+    "offset": -0.16,
+    "source": "subdl+wyzie",
+    "updated": "2026-11-19T16:57:20Z"
+  },
+  "27205:en": {
+    "drift": 1.0,
+    "file": "synced/27205-en.srt",
+    "method": "sub-to-sub",
+    "offset": 0.08,
+    "source": "subdl+wyzie",
+    "updated": "2026-11-19T17:02:53Z"
+  },
+  "603:en": {
+    "drift": 1.0,
+    "file": "synced/603-en.srt",
+    "method": "sub-to-sub",
+    "offset": -1.32,
+    "source": "subdl+wyzie",
+    "updated": "2026-11-19T17:02:42Z"
+  },
+  "687163:en": {
+    "drift": 1.001,
+    "file": "synced/687163-en.srt",
+    "method": "sub-to-sub",
+    "offset": -0.26,
+    "source": "subdl+wyzie",
+    "updated": "2026-11-19T17:02:31Z"
+  }
+}
