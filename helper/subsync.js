@@ -90,7 +90,7 @@ var SUBSYNC_BASE = "https://raw.githubusercontent.com/rareanimeaddon-blip/Sunsyn
         return {
           url: SUBSYNC_BASE + "/" + entry.file,
           lang: lg,
-          label: "Synced (" + (entry.method || "sync") + ")"
+          label: "Sunsync"
         };
       } catch (e) { return null; }
     }, function () { return null; });
