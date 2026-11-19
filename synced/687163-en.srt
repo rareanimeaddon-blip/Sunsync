@@ -1,0 +1,7724 @@
+1
+00:01:00,929 --> 00:01:03,096
+<i>Eye movement detected.</i>
+
+2
+00:01:18,557 --> 00:01:20,625
+<i>What is two plus two?</i>
+
+3
+00:01:22,400 --> 00:01:24,039
+<i>Incorrect.</i>
+
+4
+00:01:24,708 --> 00:01:27,376
+<i>- Cognition assessment</i>
+
+5
+00:01:27,377 --> 00:01:29,380
+<i>What is two plus two?</i>
+
+6
+00:01:29,381 --> 00:01:30,711
+<i>- Incorrect.</i>
+
+7
+00:01:31,381 --> 00:01:33,993
+<i>You have been
+in an induced coma.</i>
+
+8
+00:01:35,624 --> 00:01:37,330
+<i>- You may experience</i>
+
+9
+00:01:37,331 --> 00:01:38,861
+<i>- some memory loss</i>
+
+10
+00:01:38,862 --> 00:01:39,928
+<i>difficulty speaking.</i>
+
+11
+00:01:43,839 --> 00:01:45,576
+<i>Body movement detected.</i>
+
+12
+00:01:46,349 --> 00:01:47,879
+<i>For your own safety,</i>
+
+13
+00:01:47,880 --> 00:01:50,190
+<i>please return
+to the medical platform.</i>
+
+14
+00:01:57,966 --> 00:01:59,506
+Where am I?
+
+15
+00:01:59,507 --> 00:02:01,279
+<i>Please remember muscle function</i>
+
+16
+00:02:01,280 --> 00:02:03,150
+<i>has not yet been restored.</i>
+
+17
+00:02:18,380 --> 00:02:19,413
+People!
+
+18
+00:02:20,252 --> 00:02:21,450
+Hello?
+
+19
+00:03:07,181 --> 00:03:08,809
+Where am I?
+
+20
+00:03:49,761 --> 00:03:51,267
+Red leather, yellow leather.
+
+21
+00:03:56,609 --> 00:03:58,282
+Why is there
+an atomic resolution
+
+22
+00:03:58,283 --> 00:03:59,845
+scanning electron microscope?
+
+23
+00:04:00,783 --> 00:04:01,816
+Why do I know that?
+
+24
+00:04:03,084 --> 00:04:04,392
+Am I smart?
+
+25
+00:04:40,697 --> 00:04:41,896
+Hello?
+
+26
+00:04:42,867 --> 00:04:44,099
+<i>Please record video diary.</i>
+
+27
+00:04:44,100 --> 00:04:45,442
+No.
+
+28
+00:04:45,443 --> 00:04:48,480
+Can I speak
+to the person in charge?
+
+29
+00:04:49,749 --> 00:04:51,080
+The, uh, captain.
+
+30
+00:04:51,081 --> 00:04:53,789
+<i>Captain Yáo, Li-Jie. Deceased.</i>
+
+31
+00:04:53,790 --> 00:04:57,191
+Yeah, where, um,
+are the living people?
+
+32
+00:04:57,192 --> 00:04:59,899
+- <i>Dr. Ryland Grace.</i>
+
+33
+00:05:00,506 --> 00:05:01,837
+<i>End of manifest.</i>
+
+34
+00:05:04,944 --> 00:05:09,755
+I can't be
+the only person here. Right?
+
+35
+00:05:09,756 --> 00:05:11,494
+<i>Pilot detected.</i>
+
+36
+00:05:11,495 --> 00:05:13,432
+- No! No. No-No. Not the pilot.
+
+37
+00:05:13,433 --> 00:05:14,996
+Uh
+
+38
+00:05:14,997 --> 00:05:16,503
+Call, uh, Houston.
+
+39
+00:05:17,364 --> 00:05:18,475
+<i>Unknown command.</i>
+
+40
+00:05:18,476 --> 00:05:21,514
+Operation Go Home in effect.
+
+41
+00:05:21,515 --> 00:05:22,978
+<i>Invalid operation.</i>
+
+42
+00:05:24,554 --> 00:05:27,019
+That's the sun! There it is.
+
+43
+00:05:27,654 --> 00:05:29,926
+So, what are we,
+like, Neptune-ish?
+
+44
+00:05:31,700 --> 00:05:34,705
+Let's crank up the radio
+and call Earth.
+
+45
+00:05:34,706 --> 00:05:36,809
+<i>Current transmission time to Earth</i>
+
+46
+00:05:36,810 --> 00:05:41,786
+<i>is 11 years, 10 months,
+14 days and 6 hours.</i>
+
+47
+00:05:41,787 --> 00:05:44,593
+No. Nope. You're wrong.
+
+48
+00:05:44,594 --> 00:05:45,991
+I need a map.
+
+49
+00:05:47,997 --> 00:05:49,129
+Oh.
+
+50
+00:05:49,670 --> 00:05:50,704
+Uh
+
+51
+00:05:50,705 --> 00:05:52,576
+That's so far.
+
+52
+00:05:52,577 --> 00:05:55,405
+That's really far. Uh
+
+53
+00:06:06,033 --> 00:06:07,771
+That's not our sun.
+
+54
+00:06:11,472 --> 00:06:13,441
+That's not our sun.
+
+55
+00:06:27,009 --> 00:06:28,614
+Where is the fuel?
+
+56
+00:06:34,959 --> 00:06:35,992
+Wait.
+
+57
+00:07:10,326 --> 00:07:12,869
+<i>We are just
+minutes away from the fly-by</i>
+
+58
+00:07:12,870 --> 00:07:15,038
+<i>through the Petrova line
+near Venus.</i>
+
+59
+00:07:15,039 --> 00:07:17,746
+<i>So, what can you tell us
+about the ArcLight probe?</i>
+
+60
+00:07:18,381 --> 00:07:20,818
+<i>What do we expect to find?</i>
+
+61
+00:07:22,416 --> 00:07:24,056
+<i>The image we see</i>
+
+62
+00:07:24,057 --> 00:07:25,255
+<i>will be coming
+from the onboard microscope.</i>
+
+63
+00:07:29,562 --> 00:07:31,300
+Um Oh, my God.
+
+64
+00:07:36,246 --> 00:07:38,446
+<i>Sorry. I have to go now.</i>
+
+65
+00:07:47,235 --> 00:07:52,850
+Sound waves are physical.
+
+66
+00:07:52,851 --> 00:07:57,221
+And at different frequencies,
+
+67
+00:07:57,222 --> 00:08:00,260
+they make different
+pattern--
+
+68
+00:08:00,261 --> 00:08:01,769
+No, pattern--
+
+69
+00:08:01,770 --> 00:08:03,233
+They make different
+patt--
+
+70
+00:08:03,234 --> 00:08:05,236
+Olivia, can you
+help me out? There we go!
+
+71
+00:08:07,044 --> 00:08:08,110
+Whoa!
+
+72
+00:08:08,982 --> 00:08:10,049
+Yeah.
+
+73
+00:08:10,050 --> 00:08:12,053
+Are they really eating the sun?
+
+74
+00:08:12,054 --> 00:08:14,189
+The space dots?
+
+75
+00:08:14,190 --> 00:08:16,325
+That is a great question,
+uh, Rekha.
+
+76
+00:08:16,326 --> 00:08:19,562
+And I'd be curious what
+your parents think about that.
+
+77
+00:08:19,563 --> 00:08:21,599
+I'm not sure
+it should come from me.
+
+78
+00:08:21,600 --> 00:08:24,143
+Hey!
+Who wants to play a game of
+
+79
+00:08:24,144 --> 00:08:26,378
+the bean bag is lava!
+
+80
+00:08:26,379 --> 00:08:29,153
+Lava! Lava! Lava!
+
+81
+00:08:29,154 --> 00:08:31,619
+What is the speed
+of light, Olivia?
+
+82
+00:08:31,620 --> 00:08:32,963
+Uh
+
+83
+00:08:32,964 --> 00:08:34,196
+It's melting
+your hands, Olivia!
+
+84
+00:08:34,197 --> 00:08:36,795
+186,000 miles per second!
+
+85
+00:08:36,796 --> 00:08:38,799
+Oh! Give her
+a round of applause.
+
+86
+00:08:38,800 --> 00:08:41,045
+That is awesome.
+
+87
+00:08:41,046 --> 00:08:43,412
+What is the Petrova line?
+
+88
+00:08:43,413 --> 00:08:45,416
+Pass!
+
+89
+00:08:45,417 --> 00:08:46,859
+You can't pass!
+
+90
+00:08:46,860 --> 00:08:48,092
+I just did.
+
+91
+00:08:48,093 --> 00:08:50,294
+Lava! Lava! Lava!
+
+92
+00:08:50,295 --> 00:08:51,902
+Come on, guys.
+
+93
+00:08:51,903 --> 00:08:53,365
+Two years ago
+
+94
+00:08:54,567 --> 00:08:58,441
+a radio telescope enthusiast
+named Irina Petrova,
+
+95
+00:08:59,346 --> 00:09:00,920
+she noticed
+that there was a streak
+
+96
+00:09:00,921 --> 00:09:04,123
+of infrared light
+from the sun to Venus.
+
+97
+00:09:04,658 --> 00:09:07,295
+And that is now known
+as the Petrova line.
+
+98
+00:09:07,296 --> 00:09:08,363
+That's it.
+
+99
+00:09:08,364 --> 00:09:09,861
+That's the dots?
+
+100
+00:09:09,862 --> 00:09:10,940
+They think so.
+
+101
+00:09:10,941 --> 00:09:12,403
+What dots?
+
+102
+00:09:16,050 --> 00:09:18,119
+These dots.
+
+103
+00:09:18,120 --> 00:09:20,321
+They sent a probe
+up to the Petrova line,
+
+104
+00:09:20,322 --> 00:09:22,291
+and this is what they found.
+
+105
+00:09:23,592 --> 00:09:25,330
+Are they eating the sun?
+
+106
+00:09:27,270 --> 00:09:28,976
+They seem to be
+
+107
+00:09:28,977 --> 00:09:33,346
+dimming the sun a tiny,
+teeny-weeny, little bit.
+
+108
+00:09:34,053 --> 00:09:35,384
+So, no big whoop.
+
+109
+00:09:35,385 --> 00:09:36,583
+It's a small whoop.
+
+110
+00:09:37,186 --> 00:09:38,422
+It's a small-to-medium whoop.
+
+111
+00:09:39,393 --> 00:09:42,894
+Over the next 30 years,
+the Earth could
+
+112
+00:09:42,895 --> 00:09:45,601
+cool maybe 10
+
+113
+00:09:46,605 --> 00:09:48,112
+to 15 degrees.
+
+114
+00:09:48,815 --> 00:09:50,811
+So it <i>is</i> a big whoop.
+
+115
+00:09:50,812 --> 00:09:53,255
+I heard
+that all the crops will die,
+
+116
+00:09:53,256 --> 00:09:54,786
+the economy will free-fall,
+
+117
+00:09:54,787 --> 00:09:56,459
+and half the Earth
+will die of starvation.
+
+118
+00:09:56,460 --> 00:09:58,199
+- Well
+
+119
+00:09:58,200 --> 00:09:59,862
+We're all gonna die!
+
+120
+00:09:59,863 --> 00:10:01,304
+Yeah, it's true.
+
+121
+00:10:01,305 --> 00:10:03,044
+You're forgetting something.
+
+122
+00:10:03,045 --> 00:10:05,907
+Guys, guys! That's <i>if</i>
+that were to happen. Right?
+
+123
+00:10:05,908 --> 00:10:08,153
+They're gonna figure this out.
+
+124
+00:10:08,154 --> 00:10:13,492
+Right now, the best minds
+in the entire world are on it.
+
+125
+00:10:38,709 --> 00:10:40,678
+<i>Good morning, Dr. Grace.</i>
+
+126
+00:10:41,947 --> 00:10:43,420
+I'm up!
+
+127
+00:12:22,389 --> 00:12:24,017
+- Knock, knock.
+
+128
+00:12:25,858 --> 00:12:26,925
+Who's there?
+
+129
+00:12:26,926 --> 00:12:28,257
+Not good at jokes.
+
+130
+00:12:28,258 --> 00:12:29,765
+Not good
+at jokes who?
+
+131
+00:12:33,576 --> 00:12:35,072
+Dr. Grace?
+
+132
+00:12:36,913 --> 00:12:38,420
+Maybe.
+
+133
+00:12:38,421 --> 00:12:39,918
+Eva Stratt. I'm with
+the Petrova Task Force.
+
+134
+00:12:39,919 --> 00:12:40,952
+I need your help.
+
+135
+00:12:41,460 --> 00:12:42,527
+Me.
+
+136
+00:12:42,528 --> 00:12:43,958
+Did you write this?
+
+137
+00:12:46,867 --> 00:12:48,198
+Oh.
+
+138
+00:12:48,199 --> 00:12:49,839
+I'm interested
+in this section here.
+
+139
+00:12:49,840 --> 00:12:51,578
+Uh
+- Page 31.
+
+140
+00:12:51,579 --> 00:12:53,384
+"The Goldilocks Zone
+Is For Idiots:
+
+141
+00:12:53,385 --> 00:12:55,651
+Why Everyone
+Is Wrong About Life."
+
+142
+00:12:56,287 --> 00:12:57,590
+That was a long time ago.
+
+143
+00:12:57,591 --> 00:12:59,462
+Do you stand by what you wrote?
+
+144
+00:12:59,463 --> 00:13:01,631
+I was fired
+for standing by what I wrote.
+
+145
+00:13:01,632 --> 00:13:03,195
+You were fired
+
+146
+00:13:03,196 --> 00:13:05,298
+for calling the leading
+scholar in your field
+
+147
+00:13:05,299 --> 00:13:06,774
+"a staggering waste of carbon"
+
+148
+00:13:06,775 --> 00:13:08,645
+at the UNESCO conference
+in Denmark.
+
+149
+00:13:08,646 --> 00:13:11,277
+You heard about that, huh?
+
+150
+00:13:11,278 --> 00:13:13,622
+Look,
+I don't know what this is,
+
+151
+00:13:13,623 --> 00:13:16,661
+but, uh, I think I'm not s--
+
+152
+00:13:16,662 --> 00:13:17,961
+That's lava.
+
+153
+00:13:17,962 --> 00:13:19,667
+It's not.
+- Okay.
+
+154
+00:13:19,668 --> 00:13:22,068
+No one in your field
+wants anything to do with you
+
+155
+00:13:22,069 --> 00:13:23,444
+because you refused
+to back down
+
+156
+00:13:23,445 --> 00:13:25,206
+from a very unpopular view,
+
+157
+00:13:25,207 --> 00:13:26,748
+and I can give you a chance
+to prove them all wrong.
+
+158
+00:13:26,749 --> 00:13:28,752
+Uh Kevin, no running.
+
+159
+00:13:28,753 --> 00:13:30,458
+I'm not.
+
+160
+00:13:30,459 --> 00:13:33,496
+Well, joke's on them because
+I don't even care. So
+
+161
+00:13:34,765 --> 00:13:36,294
+I think you do care.
+
+162
+00:13:36,295 --> 00:13:38,001
+You're running away
+because you're scared.
+
+163
+00:13:38,002 --> 00:13:39,332
+No, I'm not.
+
+164
+00:13:41,041 --> 00:13:42,614
+Do you still believe water
+
+165
+00:13:42,615 --> 00:13:44,310
+is unnecessary
+for life to evolve?
+
+166
+00:13:44,311 --> 00:13:45,553
+Uh
+
+167
+00:13:46,156 --> 00:13:49,761
+Look, there is nothing magical
+about hydrogen and oxygen.
+
+168
+00:13:49,762 --> 00:13:52,194
+Water is required
+for life on Earth, sure.
+
+169
+00:13:52,195 --> 00:13:53,769
+But a completely
+different planet
+
+170
+00:13:53,770 --> 00:13:55,299
+might have completely
+different conditions.
+
+171
+00:13:55,300 --> 00:13:57,072
+I don't know why
+that makes me such a nut.
+
+172
+00:13:57,073 --> 00:13:58,711
+I need you to come with us.
+
+173
+00:14:00,244 --> 00:14:01,311
+Sorry,
+I didn't catch your name.
+
+174
+00:14:01,312 --> 00:14:04,317
+Carl. Hi.
+- Dr. Grace,
+
+175
+00:14:04,318 --> 00:14:06,288
+Petrova line samples
+splashed down last night.
+
+176
+00:14:06,289 --> 00:14:09,195
+I want you to tell me
+what they are, how they work.
+
+177
+00:14:09,196 --> 00:14:12,036
+I am a teacher
+at Grover Cleveland Middle.
+
+178
+00:14:12,037 --> 00:14:13,974
+And you have a doctorate
+in molecular biology.
+
+179
+00:14:13,975 --> 00:14:17,817
+And I ride a bike to work,
+and it's not for exercise.
+
+180
+00:14:17,818 --> 00:14:19,182
+So I'm sure there are thousands
+
+181
+00:14:19,183 --> 00:14:20,624
+of other people
+who are better--
+
+182
+00:14:20,625 --> 00:14:22,353
+It survives
+on the surface of the sun.
+
+183
+00:14:22,354 --> 00:14:24,290
+Does that sound like
+a water-based lifeform to you?
+
+184
+00:14:31,240 --> 00:14:32,748
+The sun's really dying,
+isn't it?
+
+185
+00:14:32,749 --> 00:14:34,178
+Yeah.
+
+186
+00:14:38,562 --> 00:14:41,798
+Is all of this necessary?
+
+187
+00:14:43,198 --> 00:14:44,672
+Yes.
+
+188
+00:14:44,673 --> 00:14:47,271
+<i>Please analyze
+the Petrova sample.</i>
+
+189
+00:14:47,272 --> 00:14:48,372
+Um
+
+190
+00:14:48,373 --> 00:14:49,749
+<i>Just one thing.</i>
+
+191
+00:14:49,750 --> 00:14:51,246
+The entire room
+is filled with argon.
+
+192
+00:14:51,247 --> 00:14:52,720
+Just try not to rip your suit.
+
+193
+00:14:53,989 --> 00:14:55,154
+Uh
+
+194
+00:14:57,490 --> 00:14:59,901
+Am I expendable?
+Is that why you want me?
+
+195
+00:14:59,902 --> 00:15:01,938
+That's not the only reason.
+
+196
+00:15:01,939 --> 00:15:04,007
+It's almost like
+you don't care if I die.
+
+197
+00:15:08,545 --> 00:15:10,657
+Hold on.
+You have to talk about it?
+
+198
+00:15:11,551 --> 00:15:13,257
+The consensus here
+
+199
+00:15:13,258 --> 00:15:15,899
+is that it would be preferable
+if you did not die.
+
+200
+00:15:17,200 --> 00:15:18,365
+Thanks, guys.
+
+201
+00:15:25,656 --> 00:15:26,987
+Oh.
+
+202
+00:15:32,263 --> 00:15:34,364
+Welcome to Earth.
+
+203
+00:15:48,802 --> 00:15:50,594
+- Are they alive?
+
+204
+00:15:51,235 --> 00:15:52,566
+They're moving.
+
+205
+00:15:52,567 --> 00:15:54,108
+So they're alive.
+
+206
+00:15:54,109 --> 00:15:55,815
+Yes, they're moving,
+
+207
+00:15:55,816 --> 00:15:57,852
+but that could be
+for many reasons.
+
+208
+00:15:57,853 --> 00:15:59,481
+What are they made of?
+
+209
+00:15:59,482 --> 00:16:01,683
+It's gonna take a long ti--
+It took like 200 years
+
+210
+00:16:01,684 --> 00:16:03,654
+to figure out
+how bacteria works, so
+
+211
+00:16:03,655 --> 00:16:05,360
+Please do it faster.
+
+212
+00:16:07,807 --> 00:16:10,436
+I'm just going through
+the whole light spectrum here.
+
+213
+00:16:11,440 --> 00:16:12,605
+Wow!
+
+214
+00:16:14,017 --> 00:16:15,721
+You're not gonna believe this.
+
+215
+00:16:18,718 --> 00:16:19,763
+Nothing happened.
+
+216
+00:16:25,138 --> 00:16:27,503
+I can't see into these buggers.
+
+217
+00:16:29,212 --> 00:16:30,852
+Amazing.
+
+218
+00:16:30,853 --> 00:16:34,584
+X-rays, microwaves,
+gamma rays, visible light.
+
+219
+00:16:34,585 --> 00:16:36,059
+Nothing!
+
+220
+00:16:37,757 --> 00:16:40,694
+Ooh, ooh, ooh, I've been
+dying to do this all day!
+
+221
+00:16:57,532 --> 00:16:58,908
+It's a cell!
+
+222
+00:16:58,909 --> 00:17:01,671
+It's a cell.
+Wake up! It's a cell!
+
+223
+00:17:01,672 --> 00:17:04,854
+It's a tiny alien cell.
+You guys!
+
+224
+00:17:04,855 --> 00:17:06,384
+Applause.
+
+225
+00:17:06,385 --> 00:17:09,224
+Guys!
+This is first contact!
+
+226
+00:17:09,931 --> 00:17:12,593
+With life outside of the--!
+
+227
+00:17:13,300 --> 00:17:14,465
+- Uh-oh.
+
+228
+00:17:15,139 --> 00:17:16,602
+Oh, it died.
+
+229
+00:17:16,603 --> 00:17:17,978
+- What?
+
+230
+00:17:19,312 --> 00:17:20,842
+This is great news.
+
+231
+00:17:20,843 --> 00:17:22,779
+Now we can find out
+what they're made of.
+
+232
+00:17:25,489 --> 00:17:27,062
+You guys fired up?
+
+233
+00:17:30,664 --> 00:17:31,874
+Yes!
+
+234
+00:17:32,404 --> 00:17:33,536
+Right?
+
+235
+00:17:34,441 --> 00:17:35,882
+Carbon.
+
+236
+00:17:36,445 --> 00:17:38,018
+Oxygen.
+
+237
+00:17:40,321 --> 00:17:42,126
+Hydrogen.
+
+238
+00:17:42,127 --> 00:17:43,424
+- Oh.
+
+239
+00:17:57,884 --> 00:17:59,588
+It's made
+
+240
+00:18:01,660 --> 00:18:03,563
+almost entirely
+
+241
+00:18:05,900 --> 00:18:07,406
+of water.
+
+242
+00:18:16,757 --> 00:18:18,527
+All right.
+
+243
+00:18:20,831 --> 00:18:22,976
+Sorry
+if I overreacted in there.
+
+244
+00:18:23,678 --> 00:18:26,313
+Just, uh, realizing I was wrong
+
+245
+00:18:26,314 --> 00:18:28,218
+about the only original idea
+I ever had.
+
+246
+00:18:28,219 --> 00:18:30,090
+Yeah. What else did you learn?
+
+247
+00:18:30,091 --> 00:18:32,259
+They give off infrared light
+when they move.
+
+248
+00:18:32,260 --> 00:18:33,360
+Mm-hm.
+
+249
+00:18:33,361 --> 00:18:34,924
+Like, so much.
+
+250
+00:18:34,925 --> 00:18:36,961
+I don't know how
+they store all that energy.
+
+251
+00:18:36,962 --> 00:18:41,740
+But, uh, their wavelength is
+exactly the Petrova frequency.
+
+252
+00:18:41,741 --> 00:18:43,644
+The light is how they move.
+
+253
+00:18:43,645 --> 00:18:45,153
+Yeah, they consume
+the sun's energy,
+
+254
+00:18:45,154 --> 00:18:47,355
+and then they expel it
+for propulsion.
+
+255
+00:18:47,356 --> 00:18:49,061
+They toot to scoot basically.
+
+256
+00:18:51,067 --> 00:18:53,003
+Why did it go to Venus?
+
+257
+00:18:54,833 --> 00:18:56,207
+I don't know.
+
+258
+00:18:57,442 --> 00:18:59,247
+Okay. We'll tell you.
+
+259
+00:18:59,248 --> 00:19:00,745
+What?
+
+260
+00:19:00,746 --> 00:19:03,354
+I have 347 other biologists
+in 21 countries
+
+261
+00:19:03,355 --> 00:19:05,094
+mobilizing as we speak.
+
+262
+00:19:05,095 --> 00:19:07,626
+So thank you for your help.
+I'm glad you didn't die.
+
+263
+00:19:07,627 --> 00:19:08,992
+Let's pack this up.
+
+264
+00:19:08,993 --> 00:19:10,730
+- Pack up!
+
+265
+00:19:13,342 --> 00:19:15,147
+That's it?
+
+266
+00:19:15,148 --> 00:19:16,975
+That's it, Carl?
+- Talk to her.
+
+267
+00:19:16,976 --> 00:19:18,450
+You're taking all the stuff?
+
+268
+00:19:18,451 --> 00:19:20,322
+At the school you said
+
+269
+00:19:20,323 --> 00:19:22,018
+there were thousands of people
+more qualified than you, so
+
+270
+00:19:22,019 --> 00:19:24,429
+I was being modest.
+- I don't need modest.
+
+271
+00:19:24,430 --> 00:19:26,092
+I need people
+who think they're right
+
+272
+00:19:26,093 --> 00:19:27,600
+when everyone else
+thinks they're wrong.
+
+273
+00:19:27,601 --> 00:19:29,098
+I need people
+who piss other people off.
+
+274
+00:19:29,099 --> 00:19:30,243
+That's me!
+
+275
+00:19:30,244 --> 00:19:32,104
+Do you want to be on a project?
+
+276
+00:19:32,105 --> 00:19:37,356
+If you think I can help, then
+
+277
+00:19:37,357 --> 00:19:39,426
+Just answer the question.
+
+278
+00:19:39,427 --> 00:19:41,364
+I wanna help the world.
+
+279
+00:19:41,365 --> 00:19:42,928
+I left you three dots.
+
+280
+00:19:42,929 --> 00:19:44,436
+Just three, huh?
+
+281
+00:19:44,437 --> 00:19:45,801
+Plus the one you killed.
+
+282
+00:19:46,805 --> 00:19:48,344
+I would take the three.
+
+283
+00:19:50,713 --> 00:19:52,320
+Yes?
+- I'll take the dots.
+
+284
+00:19:52,321 --> 00:19:53,850
+Get to work, Dr. Grace.
+
+285
+00:19:55,525 --> 00:19:57,891
+The world is counting on you.
+
+286
+00:21:05,632 --> 00:21:06,963
+<i>Hey, Carl?</i>
+
+287
+00:21:08,165 --> 00:21:09,507
+This is Carl.
+
+288
+00:21:09,508 --> 00:21:11,302
+Imagine for a second
+
+289
+00:21:11,303 --> 00:21:13,713
+that you're
+an interstellar microorganism.
+
+290
+00:21:13,714 --> 00:21:15,485
+I'm not doing that.
+
+291
+00:21:17,249 --> 00:21:20,188
+Why would you
+leave the sun and go to Venus?
+
+292
+00:21:20,189 --> 00:21:22,863
+Why not stop
+at Mercury? It's closer.
+
+293
+00:21:24,373 --> 00:21:26,332
+Maybe fresh air?
+
+294
+00:21:26,333 --> 00:21:28,270
+Venus's atmosphere
+is mostly CO2.
+
+295
+00:21:28,271 --> 00:21:29,977
+Maybe that's fresh air to them.
+
+296
+00:21:29,978 --> 00:21:31,848
+You don't know what
+these little space dots like.
+
+297
+00:21:37,124 --> 00:21:38,323
+<i>Hey, Carl?</i>
+
+298
+00:21:38,324 --> 00:21:40,228
+Do we have an expense account?
+
+299
+00:21:40,229 --> 00:21:41,967
+We don't.
+
+300
+00:21:46,241 --> 00:21:47,351
+But I do.
+
+301
+00:22:18,878 --> 00:22:20,450
+All right,
+I got something for you.
+
+302
+00:22:31,199 --> 00:22:32,740
+Thank you.
+
+303
+00:22:32,741 --> 00:22:34,369
+Do you have a coupon?
+- We don't need a coupon.
+
+304
+00:22:34,370 --> 00:22:36,373
+We're the government.
+- Which government?
+
+305
+00:22:36,374 --> 00:22:37,715
+All of 'em.
+
+306
+00:22:39,589 --> 00:22:41,218
+So this box is Venus.
+
+307
+00:22:41,219 --> 00:22:43,057
+The box is Venus.
+
+308
+00:22:43,058 --> 00:22:45,094
+It's set to emit the same
+infrared light frequency
+
+309
+00:22:45,095 --> 00:22:47,032
+as Venus's CO2 atmosphere.
+
+310
+00:22:47,033 --> 00:22:49,267
+So if the dots move
+when you turn the lights on,
+
+311
+00:22:49,268 --> 00:22:51,943
+that means
+they're looking for CO2.
+
+312
+00:22:51,944 --> 00:22:54,442
+Thus proving
+the Carl Hypothesis.
+
+313
+00:22:54,443 --> 00:22:55,476
+Sick.
+
+314
+00:22:57,956 --> 00:22:59,452
+Sorry.
+
+315
+00:22:59,453 --> 00:23:01,159
+All right.
+- All right.
+
+316
+00:23:01,160 --> 00:23:02,799
+You ready?
+
+317
+00:23:05,641 --> 00:23:07,534
+Uh-oh.
+
+318
+00:23:07,535 --> 00:23:09,076
+Why you saying "Uh-oh"?
+
+319
+00:23:09,077 --> 00:23:11,113
+The Astrophage
+moved off the slide.
+
+320
+00:23:11,114 --> 00:23:12,412
+Huh?
+
+321
+00:23:12,413 --> 00:23:14,053
+We lost them.
+
+322
+00:23:14,054 --> 00:23:15,990
+What do you mean,
+we lost them? Go get them.
+
+323
+00:23:16,559 --> 00:23:18,391
+If I open the door
+in the light,
+
+324
+00:23:18,392 --> 00:23:20,428
+they're gonna escape, and then
+we'll lose them forever.
+
+325
+00:23:20,429 --> 00:23:21,805
+At least now
+they're in the box.
+
+326
+00:23:21,806 --> 00:23:23,676
+So we'll just
+turn the lights off.
+
+327
+00:23:23,677 --> 00:23:25,273
+But there'll still be light.
+It's gotta be total darkness.
+
+328
+00:23:25,274 --> 00:23:27,551
+Okay, so just put this box
+in another box.
+
+329
+00:23:36,197 --> 00:23:37,362
+Nice.
+
+330
+00:23:49,520 --> 00:23:51,765
+Go ahead and close it. Over.
+
+331
+00:23:52,460 --> 00:23:53,967
+I can hear you.
+
+332
+00:23:59,513 --> 00:24:01,509
+Entering phase two.
+
+333
+00:24:07,094 --> 00:24:08,424
+I'm in.
+
+334
+00:24:13,601 --> 00:24:15,471
+<i>Please report. Over.</i>
+
+335
+00:24:18,578 --> 00:24:20,085
+<i>There's one.</i>
+
+336
+00:24:21,650 --> 00:24:22,728
+<i>There's two!</i>
+
+337
+00:24:22,729 --> 00:24:24,831
+Come on! Get the third one.
+
+338
+00:24:27,002 --> 00:24:28,663
+<i>Got sample three.</i>
+
+339
+00:24:28,664 --> 00:24:30,744
+<i>The Three Musketeers.
+The Three Stooges.</i>
+
+340
+00:24:34,544 --> 00:24:35,854
+<i>Uh-oh.</i>
+
+341
+00:24:35,855 --> 00:24:37,515
+What? What?
+
+342
+00:24:38,717 --> 00:24:40,489
+<i>Are you sitting down?</i>
+
+343
+00:24:40,490 --> 00:24:42,328
+No, I'm standing
+like a grown man.
+
+344
+00:24:42,329 --> 00:24:44,397
+<i>'Cause there's a fourth.</i>
+
+345
+00:24:45,269 --> 00:24:46,302
+What?
+
+346
+00:24:48,440 --> 00:24:50,673
+<i>We're fathers, Carl.</i>
+
+347
+00:24:53,054 --> 00:24:55,089
+Now I'm sitting down.
+
+348
+00:24:57,998 --> 00:24:59,065
+<i>Stratt.</i>
+
+349
+00:24:59,066 --> 00:25:02,104
+Carl and I made a baby.
+
+350
+00:25:02,105 --> 00:25:03,535
+<i>What?</i>
+
+351
+00:25:03,536 --> 00:25:05,439
+We figured out
+how Astrophage breeds.
+
+352
+00:25:06,707 --> 00:25:07,983
+<i>Don't move.</i>
+
+353
+00:25:09,956 --> 00:25:11,253
+Wheels up.
+
+354
+00:25:12,653 --> 00:25:14,128
+- You know, Carl,
+
+355
+00:25:14,129 --> 00:25:16,528
+when Stratt said
+she was sending a jet,
+
+356
+00:25:16,529 --> 00:25:18,169
+I thought you meant
+like a PJ or something.
+
+357
+00:25:18,170 --> 00:25:20,877
+I know.
+- Take this.
+
+358
+00:25:22,343 --> 00:25:23,884
+Been a long time
+since I've taken a pill
+
+359
+00:25:23,885 --> 00:25:25,479
+from a stranger
+without knowing what it was.
+
+360
+00:25:27,716 --> 00:25:29,829
+Stop! Stop!
+
+361
+00:25:40,247 --> 00:25:42,117
+Dr. Grace,
+how was your flight?
+
+362
+00:25:47,690 --> 00:25:49,396
+Where are we?
+- The ocean.
+
+363
+00:25:49,397 --> 00:25:52,468
+The Astrophage reproduction.
+Can you do it at scale?
+
+364
+00:25:52,469 --> 00:25:56,377
+Oh, in theory, you just get
+a bunch of elbow-shaped pipe,
+
+365
+00:25:56,378 --> 00:25:57,842
+put sunlight in one end--
+
+366
+00:25:57,843 --> 00:25:59,052
+Excuse me for a second.
+
+367
+00:26:00,419 --> 00:26:01,959
+Write it down.
+- Yes, ma'am.
+
+368
+00:26:03,557 --> 00:26:06,463
+and IR light and CO2
+in the other. Repeat.
+
+369
+00:26:06,464 --> 00:26:07,663
+Anything else you need for--
+
+370
+00:26:07,664 --> 00:26:09,304
+Just some water.
+
+371
+00:26:09,305 --> 00:26:10,636
+He gave me a pill
+and it's still in my throat.
+
+372
+00:26:10,637 --> 00:26:12,046
+Two venti coffees.
+
+373
+00:26:12,047 --> 00:26:13,543
+Thank you so much.
+Water for him.
+
+374
+00:26:13,544 --> 00:26:14,777
+Or coffee. That's
+
+375
+00:26:14,778 --> 00:26:16,219
+I need both.
+
+376
+00:26:16,220 --> 00:26:17,683
+Or not.
+
+377
+00:26:17,684 --> 00:26:19,060
+Okay, so this is
+kind of a tough room,
+
+378
+00:26:19,061 --> 00:26:20,689
+so don't take it personally.
+
+379
+00:26:20,690 --> 00:26:22,231
+I don't need anything fancy.
+
+380
+00:26:22,232 --> 00:26:24,498
+As long as there's a bed
+and a shower I'm good.
+
+381
+00:26:29,444 --> 00:26:31,414
+I can't do this.
+- Come on. Yes.
+
+382
+00:26:31,415 --> 00:26:33,286
+I can't. I can't.
+- You're doing great.
+
+383
+00:26:33,287 --> 00:26:35,587
+Everyone,
+this is Dr. Ryland Grace
+
+384
+00:26:35,588 --> 00:26:36,953
+from the United States.
+
+385
+00:26:36,954 --> 00:26:39,265
+Please go here. Thank you.
+
+386
+00:26:39,266 --> 00:26:42,138
+And he figured out
+how to breed Astrophage.
+
+387
+00:26:47,645 --> 00:26:49,219
+How did you do it?
+
+388
+00:26:49,220 --> 00:26:50,716
+How long
+does the process take?
+
+389
+00:26:50,717 --> 00:26:53,227
+Does it reproduce
+by mitosis or meiosis?
+
+390
+00:26:53,228 --> 00:26:55,527
+<i>What is the incubation period?</i>
+
+391
+00:26:56,763 --> 00:26:58,401
+Um
+
+392
+00:26:59,835 --> 00:27:02,343
+Carl and I made a mini Venus
+out of a plywood box,
+
+393
+00:27:02,946 --> 00:27:05,416
+and as soon as
+the samples recognized
+
+394
+00:27:05,417 --> 00:27:08,454
+the, uh, spectral signature
+of CO2, they were
+
+395
+00:27:10,724 --> 00:27:12,628
+They were like,
+"Whoomp! There it is!"
+
+396
+00:27:12,629 --> 00:27:13,796
+Okay.
+
+397
+00:27:13,797 --> 00:27:15,370
+You can sit down.
+
+398
+00:27:15,371 --> 00:27:16,934
+Who's Carl?
+
+399
+00:27:16,935 --> 00:27:18,508
+While your experiment
+was crude and clumsy,
+
+400
+00:27:18,509 --> 00:27:20,974
+our scientists
+have replicated his results.
+
+401
+00:27:23,751 --> 00:27:25,720
+I'm sorry, how did you see--?
+
+402
+00:27:25,721 --> 00:27:27,592
+We estimate
+an eight-day doubling time
+
+403
+00:27:27,593 --> 00:27:28,925
+under optimal conditions.
+
+404
+00:27:28,926 --> 00:27:31,237
+Dr. Grace is right.
+- Oh.
+
+405
+00:27:31,238 --> 00:27:32,734
+It is the CO2.
+
+406
+00:27:32,735 --> 00:27:34,309
+That's why
+they're going to Venus.
+
+407
+00:27:34,310 --> 00:27:35,608
+Please say it for everyone.
+
+408
+00:27:35,609 --> 00:27:37,216
+That's why
+they're going to Venus.
+
+409
+00:27:37,217 --> 00:27:40,321
+So that's why
+they're going to Venus,
+
+410
+00:27:40,322 --> 00:27:42,193
+is what Dr. Grace wants to say.
+
+411
+00:27:42,194 --> 00:27:43,723
+They're going to breed.
+
+412
+00:27:43,724 --> 00:27:45,627
+Whoomp! There it is.
+
+413
+00:27:47,204 --> 00:27:49,064
+I really like him.
+
+414
+00:27:49,065 --> 00:27:51,607
+How long
+to make two million kilogram?
+
+415
+00:27:51,608 --> 00:27:53,115
+Two million?
+
+416
+00:27:54,978 --> 00:27:56,254
+Two million is--
+
+417
+00:27:56,255 --> 00:27:57,321
+Why
+
+418
+00:27:59,118 --> 00:28:01,528
+on earth would you need
+that much Astrophage?
+
+419
+00:28:01,529 --> 00:28:03,630
+Nobody told him?
+
+420
+00:28:04,304 --> 00:28:05,536
+He has no clearance.
+
+421
+00:28:05,537 --> 00:28:07,374
+Please stand up, Dr. Grace.
+
+422
+00:28:08,136 --> 00:28:09,246
+Stand up.
+
+423
+00:28:10,316 --> 00:28:12,143
+I hereby grant you
+top-secret clearance
+
+424
+00:28:12,144 --> 00:28:14,652
+to all information pertaining
+to Project Hail Mary.
+
+425
+00:28:15,921 --> 00:28:17,526
+What's Project Hail Mary?
+
+426
+00:28:19,400 --> 00:28:20,433
+All right.
+
+427
+00:28:23,805 --> 00:28:26,347
+The sun
+is not the only star dying.
+
+428
+00:28:26,348 --> 00:28:28,748
+There is a clear pattern
+of infection.
+
+429
+00:28:28,749 --> 00:28:32,689
+Every star was infected
+by its neighbor except one.
+
+430
+00:28:32,690 --> 00:28:34,121
+Tau Ceti?
+
+431
+00:28:34,122 --> 00:28:35,861
+That's right.
+11.9 light years away.
+
+432
+00:28:35,862 --> 00:28:37,699
+It is uninfected
+
+433
+00:28:37,700 --> 00:28:39,703
+despite being well within
+the cluster of infected stars.
+
+434
+00:28:39,704 --> 00:28:41,906
+Why? Tell him.
+
+435
+00:28:41,907 --> 00:28:43,612
+We don't know!
+
+436
+00:28:43,613 --> 00:28:45,914
+Which is why
+we decided to build a ship
+
+437
+00:28:45,915 --> 00:28:47,686
+to go there and find out.
+
+438
+00:28:47,687 --> 00:28:49,261
+It's 11.9 light years away.
+
+439
+00:28:49,262 --> 00:28:51,628
+You can't just
+build an interstellar ship.
+
+440
+00:28:51,629 --> 00:28:52,994
+Oh yeah, we can.
+
+441
+00:28:52,995 --> 00:28:54,667
+The ship
+is not really the problem.
+
+442
+00:28:54,668 --> 00:28:58,103
+The energy required to power
+the ship is the problem.
+
+443
+00:28:58,104 --> 00:28:59,214
+It was the problem.
+
+444
+00:29:01,715 --> 00:29:03,454
+The Astrophage is the fuel.
+
+445
+00:29:03,455 --> 00:29:05,249
+Provided we can
+make enough of it.
+
+446
+00:29:05,250 --> 00:29:07,891
+And for that,
+we need you, my friend.
+
+447
+00:29:10,227 --> 00:29:11,834
+Me?
+
+448
+00:29:11,835 --> 00:29:14,475
+Ooh. Those little guys
+store a lot of energy.
+
+449
+00:29:15,078 --> 00:29:16,711
+One mistake
+and that much Astrophage
+
+450
+00:29:16,712 --> 00:29:18,914
+could vaporize California.
+
+451
+00:29:18,915 --> 00:29:21,149
+That's true, which is why
+you now live on a boat
+
+452
+00:29:21,150 --> 00:29:22,921
+in the middle
+of the ocean in case
+
+453
+00:29:24,464 --> 00:29:26,632
+I live on a boat?
+- You do.
+
+454
+00:29:26,633 --> 00:29:29,198
+So you wanna build
+a near-light speed spaceship,
+
+455
+00:29:29,199 --> 00:29:31,543
+have it travel further
+than any human-made object
+
+456
+00:29:31,544 --> 00:29:32,876
+has ever traveled,
+
+457
+00:29:32,877 --> 00:29:36,652
+and visit a star
+just to "see what's up"?
+
+458
+00:29:36,653 --> 00:29:37,853
+Yeah.
+
+459
+00:29:37,854 --> 00:29:39,526
+And then what?
+
+460
+00:29:39,527 --> 00:29:41,365
+There won't be
+enough fuel for a round-trip
+
+461
+00:29:41,366 --> 00:29:44,535
+so they send their findings
+back to Earth on probes.
+
+462
+00:29:46,905 --> 00:29:49,611
+And the astronauts
+
+463
+00:29:52,818 --> 00:29:54,490
+die in space?
+
+464
+00:29:54,491 --> 00:29:55,689
+Yes.
+
+465
+00:29:57,795 --> 00:29:59,400
+Space.
+
+466
+00:30:02,838 --> 00:30:05,578
+Any other plans
+you've thought of?
+
+467
+00:30:05,579 --> 00:30:08,452
+Anything else
+you're kicking around?
+
+468
+00:30:08,453 --> 00:30:10,754
+There are
+infinite possibilities
+
+469
+00:30:10,755 --> 00:30:12,460
+for this to go wrong.
+
+470
+00:30:12,461 --> 00:30:13,958
+It almost certainly won't work.
+
+471
+00:30:13,959 --> 00:30:16,324
+It's what you Americans
+would call a long shot.
+
+472
+00:30:17,064 --> 00:30:18,438
+Hail Mary.
+
+473
+00:30:18,903 --> 00:30:20,267
+I get it now.
+
+474
+00:30:20,268 --> 00:30:23,878
+The alternative
+is to just do nothing
+
+475
+00:30:24,680 --> 00:30:26,885
+and to starve
+and to kill each other
+
+476
+00:30:26,886 --> 00:30:29,318
+and watch everything
+on this planet go extinct,
+
+477
+00:30:29,319 --> 00:30:30,594
+including us.
+
+478
+00:30:31,224 --> 00:30:32,323
+So
+
+479
+00:30:52,773 --> 00:30:55,337
+That's a long time
+to be in space.
+
+480
+00:30:55,338 --> 00:30:57,010
+They'll be in comas
+for most of it.
+
+481
+00:30:57,545 --> 00:30:59,345
+But is that even safe?
+
+482
+00:30:59,346 --> 00:31:01,348
+Nothing about this is safe.
+
+483
+00:31:16,248 --> 00:31:17,589
+<i>We only need three.</i>
+
+484
+00:31:18,516 --> 00:31:19,726
+<i>A pilot.</i>
+
+485
+00:31:19,727 --> 00:31:21,830
+<i>An engineer.</i>
+
+486
+00:31:21,831 --> 00:31:24,031
+<i>And a scientist.</i>
+
+487
+00:31:28,845 --> 00:31:30,406
+Commander Yáo.
+
+488
+00:31:32,754 --> 00:31:35,284
+I must have known you,
+but I just don't remember.
+
+489
+00:31:36,255 --> 00:31:38,831
+You make a funny face
+
+490
+00:31:38,832 --> 00:31:42,463
+in literally every picture.
+
+491
+00:31:43,500 --> 00:31:46,472
+<i>You must have been very smart</i>
+
+492
+00:31:46,473 --> 00:31:47,506
+<i>and strong</i>
+
+493
+00:31:49,347 --> 00:31:50,721
+and brave.
+
+494
+00:31:54,831 --> 00:31:55,864
+Ilyukhina.
+
+495
+00:31:57,363 --> 00:31:59,839
+First, I owe you
+three bags of vodka.
+
+496
+00:32:00,975 --> 00:32:03,208
+<i>You seemed
+to have had a lot of friends.</i>
+
+497
+00:32:03,882 --> 00:32:05,312
+<i>This picture of you,</i>
+
+498
+00:32:05,313 --> 00:32:08,625
+what looks like
+sneaking into the Kremlin
+
+499
+00:32:10,356 --> 00:32:11,422
+is legendary.
+
+500
+00:32:14,298 --> 00:32:16,135
+<i>I wish you were still here.</i>
+
+501
+00:32:17,535 --> 00:32:19,814
+<i>I wish I wasn't alone.</i>
+
+502
+00:32:19,815 --> 00:32:21,574
+I wish I was
+
+503
+00:32:22,688 --> 00:32:24,922
+doing a better job, I just, uh
+
+504
+00:32:29,802 --> 00:32:31,704
+You were both very loved.
+
+505
+00:32:33,633 --> 00:32:34,777
+You deserve
+much more than this.
+
+506
+00:32:37,608 --> 00:32:39,182
+I'll do my best
+
+507
+00:32:39,183 --> 00:32:40,756
+to make sure that you don't
+
+508
+00:32:43,488 --> 00:32:45,490
+you know, that you didn't--
+
+509
+00:32:57,417 --> 00:32:59,056
+I'll do my best.
+
+510
+00:34:04,584 --> 00:34:06,819
+<i>Approaching Tau Ceti orbit.</i>
+
+511
+00:34:06,820 --> 00:34:08,161
+<i>Prepare for engine cutoff.</i>
+
+512
+00:34:09,793 --> 00:34:11,366
+<i>- Fourteen, thirteen</i>
+- What?
+
+513
+00:34:11,367 --> 00:34:12,908
+Why engine cutoff?
+
+514
+00:34:12,909 --> 00:34:15,572
+Seems like something
+we should talk about.
+
+515
+00:34:15,573 --> 00:34:17,345
+<i>Pilot detected.</i>
+
+516
+00:34:17,346 --> 00:34:19,547
+- What? No. I'm not a pilot!
+
+517
+00:34:19,548 --> 00:34:21,056
+<i>Four, three</i>
+
+518
+00:34:21,057 --> 00:34:22,993
+What happens at zero? I mean--
+
+519
+00:34:30,868 --> 00:34:33,277
+<i>You are now orbiting Tau Ceti.</i>
+
+520
+00:34:36,219 --> 00:34:39,994
+What the fudging fudger?
+
+521
+00:34:42,726 --> 00:34:47,107
+<i>Petrovascope operational.</i>
+
+522
+00:35:08,316 --> 00:35:09,415
+It's Tau Ceti.
+
+523
+00:35:20,406 --> 00:35:22,905
+You have a Petrova line.
+
+524
+00:35:22,906 --> 00:35:24,810
+But you're not dimming.
+
+525
+00:35:24,811 --> 00:35:26,747
+Why?
+
+526
+00:35:36,735 --> 00:35:38,176
+What is that?
+
+527
+00:35:55,774 --> 00:35:57,544
+<i>Blip-A detected.</i>
+
+528
+00:35:58,482 --> 00:35:59,945
+What's a Blip-A?
+
+529
+00:36:00,817 --> 00:36:03,061
+<i>Blip-A detected.</i>
+
+530
+00:37:08,017 --> 00:37:11,429
+No, no. No, no, no.
+Let's go. Let's go, Mary.
+
+531
+00:37:11,430 --> 00:37:13,059
+No-No-No-No!
+
+532
+00:37:13,060 --> 00:37:14,303
+Pilot detected!
+
+533
+00:37:14,304 --> 00:37:15,734
+<i>Please engage restraint.</i>
+
+534
+00:37:15,735 --> 00:37:17,441
+Pilot detected!
+
+535
+00:37:17,442 --> 00:37:19,005
+<i>Pilot detected.</i>
+- We're getting outta here.
+
+536
+00:37:19,006 --> 00:37:20,546
+<i>Engage spin drive.</i>
+
+537
+00:37:20,547 --> 00:37:23,046
+Engage the spin drive.
+- <i>Incorrect.</i>
+
+538
+00:37:23,047 --> 00:37:24,488
+<i>Welcome to the</i> Hail Mary.
+
+539
+00:37:24,489 --> 00:37:25,720
+Is it this thing?
+
+540
+00:37:30,898 --> 00:37:33,439
+<i>Erratic maneuver detected.</i>
+
+541
+00:37:35,478 --> 00:37:36,544
+Yeah.
+
+542
+00:37:53,140 --> 00:37:54,812
+<i>Blip-A detected.</i>
+
+543
+00:37:57,016 --> 00:37:58,919
+What do they want?
+
+544
+00:38:29,278 --> 00:38:30,355
+What?
+
+545
+00:38:44,044 --> 00:38:45,650
+<i>Blip-B detected.</i>
+
+546
+00:38:45,651 --> 00:38:47,621
+What's a Bl--?
+
+547
+00:38:47,622 --> 00:38:49,416
+<i>Current distance
+from</i> Hail Mary <i>is 800 meters.</i>
+
+548
+00:38:49,417 --> 00:38:51,529
+It's sending me something.
+
+549
+00:38:53,767 --> 00:38:55,669
+It could be a message.
+
+550
+00:38:58,369 --> 00:39:00,206
+It could be a bomb.
+
+551
+00:39:00,913 --> 00:39:01,946
+Is it a bomb?
+
+552
+00:39:03,654 --> 00:39:05,382
+Shields up!
+
+553
+00:39:05,383 --> 00:39:06,417
+<i>There are no shields
+on board the</i> Hail Mary.
+
+554
+00:39:06,418 --> 00:39:07,827
+Why not?
+
+555
+00:39:07,828 --> 00:39:09,599
+<i>- Thirty meters.</i>
+
+556
+00:39:09,600 --> 00:39:12,098
+<i>Twenty meters. Ten.</i>
+
+557
+00:39:22,856 --> 00:39:26,127
+Well, I guess there's egg
+on both our faces, huh, Mary?
+
+558
+00:39:26,128 --> 00:39:27,933
+<i>Blip-C detected.</i>
+
+559
+00:39:27,934 --> 00:39:29,429
+What's that?
+
+560
+00:39:32,679 --> 00:39:35,276
+Why is it moving so much
+slower than the last one?
+
+561
+00:39:39,627 --> 00:39:40,991
+They think I'm dumb.
+
+562
+00:39:45,805 --> 00:39:48,435
+If we were gonna catch it,
+what would we do?
+
+563
+00:39:48,436 --> 00:39:51,110
+<i>Would you like to go
+on a space walk, Dr. Grace?</i>
+
+564
+00:39:57,091 --> 00:39:58,929
+<i>To begin your space walk,</i>
+
+565
+00:39:58,930 --> 00:40:02,165
+<i>put on your EVA suit
+and proceed to the airlock.</i>
+
+566
+00:40:12,550 --> 00:40:14,091
+Yeah.
+
+567
+00:40:14,092 --> 00:40:15,598
+Yes!
+
+568
+00:40:50,968 --> 00:40:52,199
+No.
+
+569
+00:40:52,972 --> 00:40:54,632
+That's just crazy.
+
+570
+00:42:18,340 --> 00:42:21,608
+Righty tighty, lefty loosey.
+
+571
+00:42:26,189 --> 00:42:29,294
+Xenon's a gas.
+I think this thing's broken.
+
+572
+00:42:36,706 --> 00:42:38,511
+We need equipment
+
+573
+00:42:38,512 --> 00:42:41,782
+to analyze the Astrophage
+at Tau Ceti. Correct?
+
+574
+00:42:41,783 --> 00:42:43,422
+Dr. Grace.
+- Sorry. Hi.
+
+575
+00:42:43,423 --> 00:42:44,931
+Most of
+this equipment won't work
+
+576
+00:42:44,932 --> 00:42:46,593
+in zero gravity.
+
+577
+00:42:46,594 --> 00:42:48,102
+And we have a team
+to develop and build
+
+578
+00:42:48,103 --> 00:42:49,765
+zero gravity versions
+of this equipment.
+
+579
+00:42:49,766 --> 00:42:51,009
+We would need years for that,
+
+580
+00:42:51,010 --> 00:42:52,308
+and we have months.
+
+581
+00:42:52,309 --> 00:42:53,442
+What's the alternative?
+
+582
+00:42:53,443 --> 00:42:54,951
+We make gravity.
+
+583
+00:42:54,952 --> 00:42:56,349
+Centrifuge?
+
+584
+00:42:56,350 --> 00:42:58,122
+Centrifuge.
+
+585
+00:42:58,123 --> 00:43:00,489
+They used them to make butter
+during the Civil War,
+
+586
+00:43:00,490 --> 00:43:01,855
+actually.
+
+587
+00:43:01,856 --> 00:43:04,265
+It's a fun fact.
+
+588
+00:43:58,001 --> 00:43:59,904
+<i>Lab operational.</i>
+
+589
+00:44:12,767 --> 00:44:13,833
+Still Xenon!
+
+590
+00:44:14,669 --> 00:44:17,643
+Up is down! Left is right!
+Xenon's a solid!
+
+591
+00:44:17,644 --> 00:44:19,284
+Aliens are real!
+
+592
+00:44:19,285 --> 00:44:21,948
+I'm wrong about everything
+and everything's wrong.
+
+593
+00:44:26,662 --> 00:44:28,697
+Lefty tighty, righty loosey.
+
+594
+00:44:30,175 --> 00:44:31,903
+I mean--
+
+595
+00:44:31,904 --> 00:44:33,576
+Oh no!
+
+596
+00:44:33,577 --> 00:44:34,974
+<i>Foreign presence detected.</i>
+
+597
+00:45:38,807 --> 00:45:40,974
+You're a long way from home.
+
+598
+00:45:57,746 --> 00:45:59,814
+<i>I'm a long way from home too.</i>
+
+599
+00:46:19,085 --> 00:46:20,624
+<i>Blip-D detected.</i>
+
+600
+00:50:33,065 --> 00:50:34,593
+Is that me?
+
+601
+00:50:47,093 --> 00:50:48,324
+My ship.
+
+602
+00:50:58,082 --> 00:50:59,577
+I don't understand.
+
+603
+00:51:03,885 --> 00:51:05,127
+Oh.
+
+604
+00:51:06,131 --> 00:51:08,100
+You want me
+
+605
+00:51:09,798 --> 00:51:11,601
+to go back in my ship?
+
+606
+00:51:14,775 --> 00:51:15,951
+But I just got here.
+
+607
+00:51:19,487 --> 00:51:21,159
+Okay.
+
+608
+00:51:22,196 --> 00:51:23,427
+Okay.
+
+609
+00:51:25,896 --> 00:51:27,942
+I'll talk to you later.
+
+610
+00:51:29,705 --> 00:51:30,738
+Bye.
+
+611
+00:52:08,618 --> 00:52:10,653
+What are they doing, Mary?
+
+612
+00:52:40,517 --> 00:52:42,355
+<i>It is not advised</i>
+
+613
+00:52:42,356 --> 00:52:44,051
+<i>to modify the centrifugal
+settings of the ship.</i>
+
+614
+00:52:44,052 --> 00:52:45,327
+Thank you, Mary.
+
+615
+00:53:57,341 --> 00:53:58,440
+What?
+
+616
+00:54:18,207 --> 00:54:19,383
+Oh my.
+
+617
+00:54:21,147 --> 00:54:22,257
+This is new.
+
+618
+00:54:34,746 --> 00:54:36,582
+Anybody home?
+
+619
+00:54:39,216 --> 00:54:42,363
+I like what you've done
+with the gravity.
+
+620
+00:54:48,972 --> 00:54:50,743
+I made you a ship.
+
+621
+00:54:54,984 --> 00:54:56,655
+It's ramen.
+
+622
+00:54:58,727 --> 00:55:00,729
+I only made one.
+
+623
+00:55:01,700 --> 00:55:05,167
+I'm not sure
+how many of you there are.
+
+624
+00:55:55,302 --> 00:55:56,676
+Hi.
+
+625
+00:56:23,898 --> 00:56:25,867
+No-No-No-No-No!
+I'm sorry, I'm sorry.
+
+626
+00:56:27,036 --> 00:56:28,906
+You scared me when you went:
+
+627
+00:57:34,236 --> 00:57:35,676
+Wow.
+
+628
+00:57:50,697 --> 00:57:53,911
+Can't seem to see a face.
+
+629
+00:57:54,705 --> 00:57:57,017
+Mysterious.
+
+630
+00:57:57,018 --> 00:57:58,689
+Faces are overrated.
+
+631
+00:58:11,178 --> 00:58:13,444
+You like tapping, huh?
+
+632
+00:58:32,550 --> 00:58:33,991
+This is fun.
+
+633
+00:58:44,376 --> 00:58:46,213
+You're pointing.
+
+634
+00:58:47,514 --> 00:58:49,858
+You're not tapping. Sorry.
+
+635
+00:58:56,697 --> 00:58:58,534
+Another present.
+
+636
+00:59:15,372 --> 00:59:17,507
+I don't have one of these.
+
+637
+00:59:17,508 --> 00:59:20,281
+I love it! Thank you.
+
+638
+00:59:23,454 --> 00:59:25,853
+What, I put this on my head?
+
+639
+00:59:28,332 --> 00:59:30,797
+- Take off my head?
+
+640
+00:59:32,836 --> 00:59:34,342
+Take my helmet off?
+
+641
+00:59:36,216 --> 00:59:37,679
+No.
+
+642
+00:59:37,680 --> 00:59:39,848
+It'll
+
+643
+00:59:42,558 --> 00:59:45,002
+That's a big ask.
+
+644
+00:59:45,003 --> 00:59:46,366
+Oh.
+
+645
+00:59:49,539 --> 00:59:51,113
+This has taken a turn.
+
+646
+00:59:51,114 --> 00:59:54,613
+Thank you for
+what I hope is not handcuffs.
+
+647
+00:59:55,583 --> 00:59:58,490
+And I'm sorry
+about the whole helmet thing.
+
+648
+00:59:58,491 --> 01:00:01,594
+Unfortunately, I need oxygen
+to breathe, so
+
+649
+01:00:09,513 --> 01:00:11,152
+Two rings of eight.
+
+650
+01:00:14,556 --> 01:00:16,129
+O2.
+
+651
+01:00:18,531 --> 01:00:20,599
+You little rascal.
+
+652
+01:00:23,145 --> 01:00:24,244
+This is oxygen!
+
+653
+01:00:28,518 --> 01:00:31,621
+I still don't think
+I can do it, though. Sorry.
+
+654
+01:00:32,857 --> 01:00:34,463
+It's just, uh
+
+655
+01:00:34,464 --> 01:00:37,732
+if I'm wrong, I'm really wrong.
+
+656
+01:01:36,390 --> 01:01:37,985
+Okay.
+
+657
+01:02:01,638 --> 01:02:03,706
+It's the Petrova line.
+
+658
+01:02:05,514 --> 01:02:07,682
+We're here for the same reason.
+
+659
+01:02:07,683 --> 01:02:09,356
+You have
+a Petrova line problem too.
+
+660
+01:02:09,357 --> 01:02:11,757
+You need to solve it.
+I need to solve it.
+
+661
+01:02:11,758 --> 01:02:13,121
+That's why you made me this.
+
+662
+01:02:16,635 --> 01:02:18,241
+I'm gonna take that as a yes.
+
+663
+01:02:19,011 --> 01:02:20,775
+If we're gonna
+save our planets,
+
+664
+01:02:20,776 --> 01:02:22,448
+we have to learn
+how to communicate.
+
+665
+01:02:22,449 --> 01:02:25,014
+You know, they say math
+is the universal language.
+
+666
+01:02:25,015 --> 01:02:29,154
+I thought maybe we find out
+if that's true?
+
+667
+01:02:29,155 --> 01:02:30,761
+You see the numbers?
+
+668
+01:02:32,899 --> 01:02:34,273
+Oh, you want this?
+
+669
+01:02:36,037 --> 01:02:38,414
+Whoa! Christmas Eve, that is
+
+670
+01:02:38,415 --> 01:02:41,717
+It's really hot in there.
+Is that ammonia?
+
+671
+01:02:41,718 --> 01:02:43,049
+Anyway, that's
+
+672
+01:02:44,119 --> 01:02:46,188
+Look, see the numbers?
+
+673
+01:02:46,189 --> 01:02:47,696
+No. They're on the other side.
+
+674
+01:02:47,697 --> 01:02:49,800
+Do it again.
+If you do it again and you--
+
+675
+01:02:49,801 --> 01:02:50,868
+Don't let it snap back.
+
+676
+01:02:50,869 --> 01:02:52,343
+Don't do it. Don't do it.
+
+677
+01:02:52,344 --> 01:02:55,040
+Hold it like that.
+And you look--
+
+678
+01:02:57,982 --> 01:03:00,424
+Wow. Wow.
+
+679
+01:03:01,087 --> 01:03:02,395
+How 'bout something else?
+
+680
+01:03:03,531 --> 01:03:04,763
+Look at this.
+
+681
+01:03:05,535 --> 01:03:07,032
+A clock.
+
+682
+01:03:07,033 --> 01:03:09,377
+We both have time. Right?
+
+683
+01:03:09,378 --> 01:03:12,141
+These are the hands,
+and these are the numbers.
+
+684
+01:03:12,142 --> 01:03:14,485
+One, two, three.
+They point to the numbers.
+
+685
+01:03:15,687 --> 01:03:17,459
+And if you'll notice,
+
+686
+01:03:17,460 --> 01:03:18,956
+there's numbers there,
+and there's also numbers here.
+
+687
+01:03:21,799 --> 01:03:23,900
+Okay.
+
+688
+01:03:26,577 --> 01:03:28,007
+It is dark.
+
+689
+01:03:37,434 --> 01:03:38,766
+I got an idea.
+
+690
+01:03:38,767 --> 01:03:40,064
+Wait.
+
+691
+01:03:41,134 --> 01:03:44,106
+Don't Yeah.
+
+692
+01:03:44,107 --> 01:03:45,712
+Don't go anywhere. Stay.
+
+693
+01:03:46,375 --> 01:03:48,487
+Oh. Oh yeah.
+
+694
+01:03:50,857 --> 01:03:51,923
+I'm Grace.
+
+695
+01:03:54,259 --> 01:03:55,866
+I'm gonna call you Rocky.
+
+696
+01:03:55,867 --> 01:03:59,036
+You know, 'cause you look
+like a giant rock. Oh!
+
+697
+01:03:59,743 --> 01:04:02,372
+Um, I'm fine.
+
+698
+01:04:15,301 --> 01:04:17,579
+Echolocation. Right?
+
+699
+01:04:17,580 --> 01:04:19,176
+You need surfaces to see.
+
+700
+01:04:19,177 --> 01:04:20,408
+Try this.
+
+701
+01:04:24,022 --> 01:04:26,762
+You see the numbers?
+
+702
+01:04:28,900 --> 01:04:30,572
+What is that?
+
+703
+01:04:30,573 --> 01:04:31,905
+Is that good?
+
+704
+01:04:31,906 --> 01:04:33,610
+Jazz hands means "good"?
+
+705
+01:04:35,110 --> 01:04:36,749
+We do this.
+
+706
+01:04:37,477 --> 01:04:39,182
+Your version of this
+
+707
+01:04:40,252 --> 01:04:41,593
+is our thumbs up.
+
+708
+01:04:43,192 --> 01:04:44,798
+Nope. That's thumbs down.
+
+709
+01:04:46,033 --> 01:04:47,671
+We do the thumbs up.
+
+710
+01:04:49,204 --> 01:04:50,810
+It's close enough.
+
+711
+01:04:52,750 --> 01:04:55,512
+You want me to wait? I wait?
+
+712
+01:04:55,513 --> 01:04:57,625
+Yeah. No
+
+713
+01:04:58,960 --> 01:05:02,097
+I'm really excited to be
+working with you on this.
+
+714
+01:05:02,098 --> 01:05:03,462
+Fired up.
+
+715
+01:05:03,463 --> 01:05:05,301
+I'm sorry I'm talking so much.
+
+716
+01:05:05,302 --> 01:05:09,783
+It's just, I haven't been
+around anyone in a long time.
+
+717
+01:05:09,784 --> 01:05:11,048
+Oh.
+
+718
+01:05:12,349 --> 01:05:15,287
+What have we got here?
+
+719
+01:05:25,750 --> 01:05:27,278
+It's a clock.
+
+720
+01:05:28,546 --> 01:05:30,791
+I showed you a clock
+
+721
+01:05:34,261 --> 01:05:35,934
+and you're showing me a clock.
+
+722
+01:05:35,935 --> 01:05:39,467
+We're, uh, clock bros.
+
+723
+01:05:43,819 --> 01:05:45,822
+Right.
+
+724
+01:05:45,823 --> 01:05:48,727
+Um, I gotta be honest.
+
+725
+01:05:50,425 --> 01:05:52,702
+I'm not sure
+I'm getting all of this.
+
+726
+01:06:01,789 --> 01:06:02,822
+Check this out.
+
+727
+01:06:05,125 --> 01:06:07,733
+I thought I might record you.
+
+728
+01:06:07,734 --> 01:06:09,969
+- Oh, no-no. No. That's okay.
+
+729
+01:06:09,970 --> 01:06:11,697
+It's just a microphone.
+Works like this.
+
+730
+01:06:11,698 --> 01:06:13,205
+Let's start with one.
+
+731
+01:06:15,112 --> 01:06:16,950
+One.
+
+732
+01:06:16,951 --> 01:06:19,856
+No-No, wait, wait, wait. Sorry.
+
+733
+01:06:21,928 --> 01:06:23,798
+Okay. One.
+
+734
+01:06:24,967 --> 01:06:26,561
+And
+
+735
+01:06:27,907 --> 01:06:28,940
+One!
+
+736
+01:06:30,946 --> 01:06:32,507
+Okay.
+
+737
+01:06:33,049 --> 01:06:34,887
+So, uh
+
+738
+01:06:34,888 --> 01:06:36,957
+I met an alien.
+
+739
+01:06:36,958 --> 01:06:39,897
+And we're learning
+to communicate.
+
+740
+01:06:39,898 --> 01:06:42,000
+Let's do names.
+
+741
+01:06:42,001 --> 01:06:43,695
+Okay, let's start with you.
+
+742
+01:06:43,696 --> 01:06:45,005
+Rocky.
+
+743
+01:06:53,419 --> 01:06:55,619
+You done?
+
+744
+01:06:58,000 --> 01:06:59,430
+My name--
+
+745
+01:06:59,431 --> 01:07:00,763
+Can't wait to hear this.
+
+746
+01:07:00,764 --> 01:07:01,940
+is Grace.
+
+747
+01:07:02,810 --> 01:07:05,243
+What's your word
+for my name? Go ahead.
+
+748
+01:07:10,717 --> 01:07:12,654
+You know,
+enough to order at restaurants.
+
+749
+01:07:12,655 --> 01:07:16,101
+We have about 250 words.
+
+750
+01:07:16,102 --> 01:07:18,766
+<i>My atmosphere
+would kill him and his, me.</i>
+
+751
+01:07:18,767 --> 01:07:23,082
+<i>But I like to keep a wall up
+in my relationships anyways.</i>
+
+752
+01:07:23,083 --> 01:07:24,745
+<i>He's a mechanic, I think.</i>
+
+753
+01:07:24,746 --> 01:07:26,925
+<i>He uses a metal form of xenon.</i>
+
+754
+01:07:26,926 --> 01:07:28,653
+<i>He can make anything.</i>
+
+755
+01:07:28,654 --> 01:07:30,294
+Look at this.
+
+756
+01:07:30,295 --> 01:07:32,661
+I'm calling it "xenonite."
+
+757
+01:07:32,662 --> 01:07:34,368
+And if I can't understand
+what he's saying,
+
+758
+01:07:34,369 --> 01:07:36,174
+which is most of the time,
+
+759
+01:07:36,175 --> 01:07:38,178
+he puts on a little puppet show
+for me and my tiny brain.
+
+760
+01:07:38,179 --> 01:07:40,116
+And you know what?
+I don't mind it.
+
+761
+01:07:40,117 --> 01:07:41,580
+He's kinda growing on me.
+
+762
+01:07:41,581 --> 01:07:43,089
+At least he's not
+growing in me, you know?
+
+763
+01:07:43,090 --> 01:07:44,851
+Which was a concern
+for a little while.
+
+764
+01:07:44,852 --> 01:07:46,260
+<i>His sun is dying too.</i>
+
+765
+01:07:46,261 --> 01:07:49,298
+<i>So maybe
+we can help each other.</i>
+
+766
+01:07:51,304 --> 01:07:52,337
+Recognize this?
+
+767
+01:07:55,642 --> 01:07:57,018
+We call it "Astrophage."
+
+768
+01:07:57,019 --> 01:07:58,955
+It means star-eater.
+
+769
+01:08:05,398 --> 01:08:07,071
+"Astrophage on me star.
+
+770
+01:08:07,072 --> 01:08:09,272
+Bad, bad, bad,
+bad, bad, bad, bad." Yeah.
+
+771
+01:08:11,047 --> 01:08:13,049
+Same.
+
+772
+01:08:27,971 --> 01:08:30,083
+Why are you alone?
+
+773
+01:08:42,043 --> 01:08:43,604
+Twenty-three?
+
+774
+01:08:45,478 --> 01:08:47,987
+Wow. Um
+
+775
+01:08:48,980 --> 01:08:50,189
+What happened to them?
+
+776
+01:09:00,178 --> 01:09:01,872
+I'm sorry.
+
+777
+01:09:05,783 --> 01:09:06,948
+How did they die?
+
+778
+01:09:24,490 --> 01:09:25,688
+Oh.
+
+779
+01:09:26,692 --> 01:09:28,166
+Um
+
+780
+01:09:32,242 --> 01:09:33,936
+There were three of us,
+
+781
+01:09:35,281 --> 01:09:36,876
+and two died on the way here.
+
+782
+01:09:40,049 --> 01:09:41,787
+I wish I knew why.
+
+783
+01:09:43,495 --> 01:09:45,828
+Now it's only me.
+
+784
+01:09:59,957 --> 01:10:01,430
+Correction.
+
+785
+01:10:25,414 --> 01:10:26,711
+Deal.
+
+786
+01:10:31,261 --> 01:10:33,296
+Called a fist bump, by the way.
+
+787
+01:10:36,469 --> 01:10:37,800
+What's that?
+
+788
+01:10:38,903 --> 01:10:40,410
+"Fist my bump"?
+
+789
+01:10:40,411 --> 01:10:42,006
+No. It's fist bump.
+
+790
+01:10:44,287 --> 01:10:46,146
+It's not the same.
+
+791
+01:10:49,187 --> 01:10:51,190
+<i>Exactly. The Astrophage
+has to reach Tau Ceti.</i>
+
+792
+01:10:51,191 --> 01:10:53,567
+Otherwise, we wouldn't
+see the Petrova line.
+
+793
+01:11:01,618 --> 01:11:04,050
+Do we really
+need this whole model?
+
+794
+01:11:05,825 --> 01:11:06,924
+Right.
+
+795
+01:11:09,095 --> 01:11:10,095
+Oh boy.
+
+796
+01:11:10,965 --> 01:11:12,937
+I used to have
+one of these in my classroom,
+
+797
+01:11:12,938 --> 01:11:14,742
+and it was a lot simpler
+to set up.
+
+798
+01:11:19,214 --> 01:11:20,555
+One sec. What? What?
+
+799
+01:11:22,319 --> 01:11:24,189
+That is a great question.
+
+800
+01:11:25,292 --> 01:11:28,099
+You know what? Try this.
+
+801
+01:11:28,100 --> 01:11:29,740
+<i>Why is a schoolteacher</i>
+
+802
+01:11:29,741 --> 01:11:32,007
+<i>in space, question?</i>
+
+803
+01:11:33,649 --> 01:11:35,752
+No.
+- <i>Don't like that voice.</i>
+
+804
+01:11:35,753 --> 01:11:38,592
+Can't unhear it, really.
+<i>- Scary.</i>
+
+805
+01:11:38,593 --> 01:11:40,828
+Let's try this.
+
+806
+01:11:40,829 --> 01:11:42,226
+<i>Ooh.</i>
+- Nope.
+
+807
+01:11:42,227 --> 01:11:44,164
+<i>Why is a schoolteacher
+in space?</i>
+
+808
+01:11:44,165 --> 01:11:46,366
+No need to even continue. Nope.
+
+809
+01:11:46,367 --> 01:11:48,876
+<i>Why is a schoolteacher in space?</i>
+
+810
+01:11:50,750 --> 01:11:52,753
+<i>What's so funny, question?</i>
+
+811
+01:11:52,754 --> 01:11:54,723
+<i>Why is a schoolteacher in space?</i>
+
+812
+01:11:54,724 --> 01:11:56,353
+I mean
+
+813
+01:11:56,354 --> 01:11:57,289
+<i>It has charm, but no.</i>
+
+814
+01:11:57,290 --> 01:11:59,326
+Meryl Streep?
+
+815
+01:11:59,327 --> 01:12:01,263
+<i>Why is a schoolteacher in space?</i>
+
+816
+01:12:02,801 --> 01:12:04,777
+She can do anything.
+
+817
+01:12:04,778 --> 01:12:07,418
+<i>Why is a schoolteacher in space?</i>
+
+818
+01:12:09,182 --> 01:12:10,347
+Don't think so.
+
+819
+01:12:11,517 --> 01:12:14,190
+<i>Why is a schoolteacher in space?</i>
+
+820
+01:12:15,194 --> 01:12:16,602
+That's not bad.
+
+821
+01:12:16,603 --> 01:12:18,507
+I like.
+- All right.
+
+822
+01:12:18,508 --> 01:12:21,205
+And in answer to your question,
+
+823
+01:12:21,206 --> 01:12:23,749
+I have no idea
+what I'm doing in space.
+
+824
+01:12:23,750 --> 01:12:25,718
+I don't remember.
+
+825
+01:12:26,623 --> 01:12:27,922
+Is okay.
+
+826
+01:12:27,923 --> 01:12:30,090
+Grace find out
+when Grace go home.
+
+827
+01:12:34,001 --> 01:12:35,133
+I'm gonna go to sleep.
+
+828
+01:12:35,972 --> 01:12:37,809
+No understand word.
+
+829
+01:12:38,813 --> 01:12:40,309
+Sleep?
+
+830
+01:12:40,310 --> 01:12:42,720
+Uh, just, you go like this.
+
+831
+01:12:42,721 --> 01:12:45,660
+Died? Is died? Died?
+No-No-No-No-No.
+
+832
+01:12:45,661 --> 01:12:49,425
+No. Not died. Just lay here
+for 29,000 seconds and then
+
+833
+01:12:51,134 --> 01:12:52,234
+we wake up!
+
+834
+01:12:52,235 --> 01:12:53,643
+Oh. Understand.
+
+835
+01:12:53,644 --> 01:12:55,107
+We call this:
+
+836
+01:12:56,617 --> 01:12:58,411
+Okay. Here we go.
+
+837
+01:12:58,412 --> 01:13:00,414
+Sleep.
+
+838
+01:13:02,596 --> 01:13:03,629
+Good night, sir.
+
+839
+01:13:04,299 --> 01:13:05,833
+I watch Grace sleep.
+
+840
+01:13:05,834 --> 01:13:08,232
+No, that's fine.
+That's a little weird.
+
+841
+01:13:09,137 --> 01:13:10,810
+I'll be good. Good night!
+
+842
+01:13:10,811 --> 01:13:12,714
+No, not safe.
+Eridians must watch sleep.
+
+843
+01:13:12,715 --> 01:13:15,379
+That's really interesting.
+That sounds like something
+
+844
+01:13:15,380 --> 01:13:17,349
+We can unpack that tomorrow.
+
+845
+01:13:20,126 --> 01:13:22,260
+Rocky watch crew many days.
+
+846
+01:13:24,266 --> 01:13:26,642
+Crew not wake up.
+
+847
+01:13:33,053 --> 01:13:34,483
+That's where you're gonna be?
+
+848
+01:13:34,484 --> 01:13:35,959
+No, it's usually closer.
+
+849
+01:13:35,960 --> 01:13:37,731
+On your chest.
+
+850
+01:13:37,732 --> 01:13:39,868
+I wonder if it would work
+from a little farther back.
+
+851
+01:13:39,869 --> 01:13:42,775
+But Grace won't
+feel comfortable and safe.
+
+852
+01:13:42,776 --> 01:13:45,647
+Well Hey, look, I'm seeing
+
+853
+01:13:46,916 --> 01:13:49,545
+so many sides of you lately,
+and it's great.
+
+854
+01:13:50,248 --> 01:13:52,221
+Right now I'm seeing
+the underside of you.
+
+855
+01:13:56,704 --> 01:13:59,367
+Kind of a side sleeper anyway.
+Good night.
+
+856
+01:14:02,683 --> 01:14:05,148
+<i>So, we watch each other sleep.</i>
+
+857
+01:14:07,826 --> 01:14:10,765
+<i>Eridians don't sleep
+like a human does.</i>
+
+858
+01:14:10,766 --> 01:14:13,099
+<i>They seem
+legitimately paralyzed.</i>
+
+859
+01:14:13,100 --> 01:14:14,639
+<i>If danger comes,
+he can't wake up.</i>
+
+860
+01:14:15,709 --> 01:14:17,568
+<i>It's a survival norm.</i>
+
+861
+01:14:18,782 --> 01:14:20,982
+<i>Someone has to keep you safe.</i>
+
+862
+01:14:32,171 --> 01:14:33,844
+<i>Mission update.</i>
+
+863
+01:14:33,845 --> 01:14:36,177
+<i>Scientific objective completed.</i>
+
+864
+01:14:37,445 --> 01:14:39,855
+Flight team, I want
+you to meet Dr. Ryland Grace.
+
+865
+01:14:41,717 --> 01:14:44,425
+He is currently
+the world's leading authority
+
+866
+01:14:44,426 --> 01:14:46,462
+in Astrophage biology.
+
+867
+01:14:46,463 --> 01:14:48,565
+Dr. Grace,
+these are the three astronauts
+
+868
+01:14:48,566 --> 01:14:50,008
+going on the mission
+
+869
+01:14:50,009 --> 01:14:51,979
+and their backups
+for redundancy.
+
+870
+01:14:51,980 --> 01:14:54,676
+Yáo, Ilyukhina, and DuBois.
+
+871
+01:14:54,677 --> 01:14:57,021
+Our pilot, engineer,
+and science officer.
+
+872
+01:15:00,899 --> 01:15:02,032
+It's an honor.
+
+873
+01:15:02,033 --> 01:15:03,694
+I'm excited to share
+
+874
+01:15:03,695 --> 01:15:06,502
+what I've learned about
+Astrophage and spin drives.
+
+875
+01:15:06,503 --> 01:15:09,740
+We have 1,009 of these
+Little Engines That Could
+
+876
+01:15:09,741 --> 01:15:11,214
+on the <i>Hail Mary</i> and--
+
+877
+01:15:18,032 --> 01:15:19,528
+Okay.
+
+878
+01:15:19,529 --> 01:15:20,805
+You're doing great.
+- What?
+
+879
+01:15:21,974 --> 01:15:24,637
+Once the mission is complete,
+
+880
+01:15:24,638 --> 01:15:28,216
+we have the option
+to end our lives on our terms.
+
+881
+01:15:28,217 --> 01:15:31,993
+The alternative is slow
+miserable death by starvation.
+
+882
+01:15:31,994 --> 01:15:33,755
+I want to do lethal injection
+
+883
+01:15:33,756 --> 01:15:35,296
+with a little bit of heroin.
+
+884
+01:15:35,297 --> 01:15:37,563
+I will have
+what she's having.
+
+885
+01:15:38,533 --> 01:15:41,110
+Following on
+from Dr. Grace's discovery,
+
+886
+01:15:41,111 --> 01:15:46,781
+we've built an IR emitter
+set to the wavelength of CO2,
+
+887
+01:15:46,782 --> 01:15:50,359
+which attracts the Astrophage
+to this revolver face.
+
+888
+01:15:50,360 --> 01:15:53,068
+The drive
+then rotates outwards, yeah?
+
+889
+01:15:53,069 --> 01:15:57,373
+We increase the IR,
+the Astrophage get excited,
+
+890
+01:15:57,374 --> 01:16:01,051
+thrust the ship forward,
+and so on and so on.
+
+891
+01:16:01,052 --> 01:16:04,090
+This is less than a gram
+of Astrophage,
+
+892
+01:16:04,091 --> 01:16:05,753
+and we only need
+a fraction of this
+
+893
+01:16:05,754 --> 01:16:08,230
+for this demonstration,
+if you want to take a look.
+
+894
+01:16:08,231 --> 01:16:09,331
+To do what?
+
+895
+01:16:09,332 --> 01:16:11,973
+To melt a metric ton of metal.
+
+896
+01:16:38,787 --> 01:16:40,425
+Powerful stuff.
+
+897
+01:16:41,429 --> 01:16:42,926
+Commander Yáo,
+
+898
+01:16:42,927 --> 01:16:44,302
+I really appreciate
+what you all are doing.
+
+899
+01:16:44,303 --> 01:16:45,700
+You would do the same.
+
+900
+01:16:45,701 --> 01:16:47,902
+I would choose
+just not to go at all.
+
+901
+01:16:49,809 --> 01:16:52,483
+I don't have the bravery gene
+that you all have. Trust me.
+
+902
+01:16:52,484 --> 01:16:54,091
+It's not a gene.
+
+903
+01:16:54,092 --> 01:16:56,325
+You just need to find someone
+to be brave for.
+
+904
+01:17:10,355 --> 01:17:12,291
+<i>Movement detected.</i>
+
+905
+01:17:18,867 --> 01:17:19,967
+Hi, Grace.
+
+906
+01:17:19,968 --> 01:17:22,246
+You're in a ball!
+
+907
+01:17:22,247 --> 01:17:24,283
+So Rocky
+no die in Grace atmosphere.
+
+908
+01:17:24,284 --> 01:17:26,188
+I come up.
+- Oh, you're coming up.
+
+909
+01:17:26,189 --> 01:17:28,225
+<i>Foreign body detected.</i>
+
+910
+01:17:28,226 --> 01:17:29,590
+Grace and Rocky big science
+
+911
+01:17:29,591 --> 01:17:31,099
+how to kill
+Astrophage together.
+
+912
+01:17:31,100 --> 01:17:32,398
+I keep going this way?
+
+913
+01:17:32,399 --> 01:17:34,435
+This room boring.
+- Rocky!
+
+914
+01:17:34,436 --> 01:17:36,637
+Science. Save Earth.
+Save Erid. Good plan.
+
+915
+01:17:36,638 --> 01:17:38,003
+No! No! No!
+
+916
+01:17:38,004 --> 01:17:40,007
+What this down here, question?
+
+917
+01:17:40,008 --> 01:17:41,317
+Amaze, amaze, amaze.
+
+918
+01:17:41,318 --> 01:17:43,013
+Rocky want
+to see human technology.
+
+919
+01:17:43,014 --> 01:17:46,019
+Dirty, dirty, dirty.
+Dirty, dirty.
+
+920
+01:17:46,020 --> 01:17:47,924
+Why room so messy, question?
+
+921
+01:17:47,925 --> 01:17:50,060
+Well, I wasn't
+expecting company, was I?
+
+922
+01:17:50,061 --> 01:17:52,240
+Is this room for garbage? Oh.
+
+923
+01:17:52,241 --> 01:17:53,936
+Dirty, dirty, dirty.
+- No. This is the lab.
+
+924
+01:17:53,937 --> 01:17:56,810
+This is
+where the science happens.
+
+925
+01:17:56,811 --> 01:17:59,287
+What this? What this?
+- That's the evaporator. Whoa!
+
+926
+01:17:59,288 --> 01:18:00,785
+What this?
+
+927
+01:18:00,786 --> 01:18:03,592
+That is the disco ball.
+That makes me happy.
+
+928
+01:18:03,593 --> 01:18:05,497
+Rocky will build workshop here.
+
+929
+01:18:05,498 --> 01:18:07,534
+Will need much room for Rocky
+and much less space for Grace.
+
+930
+01:18:07,535 --> 01:18:09,175
+What is happening here?
+
+931
+01:18:09,176 --> 01:18:10,805
+We go Petrova line.
+We collect Astrophage.
+
+932
+01:18:10,806 --> 01:18:12,875
+We study it. We go home.
+We collect. We save Earth.
+
+933
+01:18:12,876 --> 01:18:14,515
+And when you say
+"we," uh, where?
+
+934
+01:18:14,516 --> 01:18:16,145
+I see Grace!
+
+935
+01:18:16,146 --> 01:18:18,424
+Apology, apology, apology.
+- Whoa! Enough!
+
+936
+01:18:18,425 --> 01:18:20,087
+Rocky, stay!
+- Rocky new to ball.
+
+937
+01:18:20,088 --> 01:18:21,893
+Rocky, my hand is up.
+
+938
+01:18:21,894 --> 01:18:23,930
+We can't just show up
+in a space ball unannounced
+
+939
+01:18:23,931 --> 01:18:25,967
+and move into someone else's
+spaceship. Right?
+
+940
+01:18:25,968 --> 01:18:28,411
+There has to be boundaries.
+- Boundaries.
+
+941
+01:18:28,412 --> 01:18:30,173
+We have one mission.
+- Mission.
+
+942
+01:18:30,174 --> 01:18:32,078
+But we're two
+distinct individuals.
+
+943
+01:18:32,079 --> 01:18:33,146
+Individuals.
+
+944
+01:18:33,147 --> 01:18:34,787
+Both working on our distinct
+
+945
+01:18:34,788 --> 01:18:36,262
+individual parts
+of that mission.
+
+946
+01:18:36,263 --> 01:18:38,233
+Mission.
+- Separately.
+
+947
+01:18:38,234 --> 01:18:39,797
+Separately.
+- Okay.
+
+948
+01:18:39,798 --> 01:18:42,131
+Where my bedroom?
+- Bedroom?
+
+949
+01:18:42,132 --> 01:18:43,507
+For what?
+
+950
+01:18:43,508 --> 01:18:46,512
+So I have a new roommate now.
+
+951
+01:18:47,714 --> 01:18:49,617
+Be careful back there, okay?
+
+952
+01:18:51,359 --> 01:18:53,759
+The chore wheel's
+pretty lopsided.
+
+953
+01:18:53,760 --> 01:18:55,663
+Where on earth does that go?
+
+954
+01:18:55,664 --> 01:18:57,469
+Not on Earth. More high.
+- It goes this way?
+
+955
+01:18:57,470 --> 01:18:59,231
+Wall. Wall.
+- All the way out to here?
+
+956
+01:18:59,232 --> 01:19:01,609
+Yes. Out, pointy.
+- What?
+
+957
+01:19:01,610 --> 01:19:03,944
+He tells me what to do,
+he tells me why to do it,
+
+958
+01:19:03,945 --> 01:19:06,179
+he tells me how to do it,
+he tells me when to do it.
+
+959
+01:19:06,180 --> 01:19:07,555
+And then when I do it,
+
+960
+01:19:07,556 --> 01:19:09,218
+he's like,
+"What are you doing?"
+
+961
+01:19:09,219 --> 01:19:10,561
+I'm just saying you're gonna
+get out of the ball
+
+962
+01:19:10,562 --> 01:19:12,499
+to get into a much bigger ball?
+
+963
+01:19:12,500 --> 01:19:14,228
+Yes. For sleeping.
+
+964
+01:19:14,229 --> 01:19:15,263
+<i>Sounds like
+you're having an argument.</i>
+
+965
+01:19:15,264 --> 01:19:17,036
+You don't even use a bed!
+
+966
+01:19:17,037 --> 01:19:18,842
+<i>Conflict is normal
+amongst crewmembers.</i>
+
+967
+01:19:18,843 --> 01:19:20,647
+You have the <i>Hellraiser</i> thing
+that you sleep on.
+
+968
+01:19:20,648 --> 01:19:22,079
+- What do you need a bed for?
+- Grumpy, angry, stupid.
+
+969
+01:19:22,080 --> 01:19:23,620
+How long
+since last sleep, question?
+
+970
+01:19:23,621 --> 01:19:25,118
+Don't talk to--
+Armando. Yes. Can I help you?
+
+971
+01:19:25,119 --> 01:19:26,825
+You're doing this.
+
+972
+01:19:26,826 --> 01:19:28,796
+It's a lot of this.
+
+973
+01:19:28,797 --> 01:19:29,930
+And then he's like,
+
+974
+01:19:29,931 --> 01:19:31,372
+"No understand, no understand."
+
+975
+01:19:31,373 --> 01:19:32,638
+And then it's like
+
+976
+01:19:32,639 --> 01:19:34,169
+"Need a word."
+
+977
+01:19:34,170 --> 01:19:36,008
+You know
+what the word is? Bossy.
+
+978
+01:19:36,009 --> 01:19:37,714
+I'm like one of the villains
+in the <i>Superman</i> movie.
+
+979
+01:19:37,715 --> 01:19:40,919
+I'm just,
+like, trapped in hell.
+
+980
+01:19:40,920 --> 01:19:42,317
+Get me out of here!
+
+981
+01:19:42,318 --> 01:19:44,463
+His eating habits are
+
+982
+01:19:47,868 --> 01:19:49,539
+exotic.
+
+983
+01:19:50,543 --> 01:19:52,414
+Grace look disgust when eat.
+
+984
+01:19:52,415 --> 01:19:53,912
+How do you look when you eat?
+
+985
+01:19:53,913 --> 01:19:55,948
+Is look beautiful.
+- Show me.
+
+986
+01:20:00,795 --> 01:20:02,863
+- Oh my God.
+
+987
+01:20:04,571 --> 01:20:06,034
+Oh my God.
+
+988
+01:20:07,643 --> 01:20:09,514
+He has incredible hearing.
+
+989
+01:20:09,515 --> 01:20:11,783
+He can see through walls.
+
+990
+01:20:11,784 --> 01:20:14,557
+Personal space is at a premium.
+
+991
+01:20:14,558 --> 01:20:16,560
+Who is Grace
+talking to, question?
+
+992
+01:20:17,696 --> 01:20:19,435
+There's no way
+you can hear me right now.
+
+993
+01:20:19,436 --> 01:20:21,131
+Can hear.
+Who are you talking to?
+
+994
+01:20:21,132 --> 01:20:22,639
+You can hear this?
+
+995
+01:20:22,640 --> 01:20:24,511
+Yes. Grace say,
+"You can hear this?"
+
+996
+01:20:24,512 --> 01:20:26,273
+What about this?
+- Yes.
+
+997
+01:20:26,274 --> 01:20:27,649
+Oh my God. Look at this.
+
+998
+01:20:27,650 --> 01:20:29,885
+Look how far away he is.
+
+999
+01:20:29,886 --> 01:20:31,723
+That is where he is.
+- Hello, Grace.
+
+1000
+01:20:31,724 --> 01:20:33,958
+He's right here. Okay?
+- Hello, Grace Friend.
+
+1001
+01:20:34,929 --> 01:20:36,899
+Did Grace
+find sampler instruction?
+
+1002
+01:20:36,900 --> 01:20:39,200
+Yes, I found
+the sampler instruct--
+
+1003
+01:20:39,201 --> 01:20:41,038
+Yes, I found
+the sampler instructions.
+
+1004
+01:20:43,913 --> 01:20:45,818
+<i>He's really smart
+about some things.</i>
+
+1005
+01:20:45,819 --> 01:20:47,756
+Oh my God, he's got a gun!
+
+1006
+01:20:47,757 --> 01:20:49,958
+Oh. This? No, no, no.
+
+1007
+01:20:49,959 --> 01:20:52,600
+This to screen in front,
+
+1008
+01:20:52,601 --> 01:20:54,461
+and now this to that over here.
+
+1009
+01:20:54,462 --> 01:20:56,509
+Now Rocky can hear screen.
+
+1010
+01:20:56,510 --> 01:20:58,976
+Please don't point it at me.
+- Oh. Point over here.
+
+1011
+01:20:58,977 --> 01:21:00,550
+Yes.
+- Oh, okay. Now over there.
+
+1012
+01:21:00,551 --> 01:21:02,180
+You're pointing at me again.
+
+1013
+01:21:02,181 --> 01:21:04,217
+<i>But his species
+doesn't know about things</i>
+
+1014
+01:21:04,218 --> 01:21:06,089
+<i>like relativity and radiation.</i>
+
+1015
+01:21:06,090 --> 01:21:07,530
+And the rest of the crew?
+
+1016
+01:21:08,133 --> 01:21:11,066
+In mid of ship. There.
+- In here?
+
+1017
+01:21:11,067 --> 01:21:14,270
+And where did
+you keep the Astrophage?
+
+1018
+01:21:14,271 --> 01:21:18,080
+Fuel tanks
+next to Rocky workshop there.
+
+1019
+01:21:18,081 --> 01:21:21,824
+I think the radiation is what
+made your crew sick, Rock.
+
+1020
+01:21:21,825 --> 01:21:24,863
+The Astrophage probably
+just protected you from it.
+
+1021
+01:21:24,864 --> 01:21:27,902
+This isn't something
+that you could have fixed.
+
+1022
+01:21:27,903 --> 01:21:31,172
+But I guess together
+we're, you know, pretty smart.
+
+1023
+01:21:31,173 --> 01:21:32,680
+Since we're only gonna
+be able to intersect
+
+1024
+01:21:32,681 --> 01:21:34,442
+with the Petrova line
+for a few seconds,
+
+1025
+01:21:34,443 --> 01:21:36,050
+we're not gonna have enough
+time to get a good sample.
+
+1026
+01:21:36,051 --> 01:21:37,415
+Too fast.
+Do puppet show. Too fast.
+
+1027
+01:21:37,416 --> 01:21:38,692
+I don't want
+to do the puppet show.
+
+1028
+01:21:38,693 --> 01:21:40,288
+No, do puppet show.
+
+1029
+01:21:42,966 --> 01:21:45,839
+This is us.
+We're, you know, flying along.
+
+1030
+01:21:45,840 --> 01:21:47,402
+The problem is,
+
+1031
+01:21:47,403 --> 01:21:49,175
+because the solar system
+is constantly moving,
+
+1032
+01:21:49,176 --> 01:21:50,716
+the Petrova line is gonna
+constantly be moving. Right?
+
+1033
+01:21:50,717 --> 01:21:52,445
+Am I still doing it?
+
+1034
+01:21:52,446 --> 01:21:54,053
+You still want it?
+- Yes, yes. Show time.
+
+1035
+01:21:54,054 --> 01:21:55,627
+So we're not gonna have time
+to get the sample.
+
+1036
+01:21:55,628 --> 01:21:57,026
+No, no, no.
+
+1037
+01:21:57,027 --> 01:22:00,703
+Use planet gravity
+to move with line.
+
+1038
+01:22:00,704 --> 01:22:03,434
+You mean sort of
+like rest in its orbit?
+
+1039
+01:22:03,435 --> 01:22:04,810
+Yes.
+
+1040
+01:22:07,575 --> 01:22:09,611
+I didn't think of that.
+- I did.
+
+1041
+01:22:09,612 --> 01:22:11,549
+<i>We figured out a plan.</i>
+
+1042
+01:22:11,550 --> 01:22:13,586
+<i>We're gonna orbit the planet
+where Astrophage breeds,</i>
+
+1043
+01:22:13,587 --> 01:22:17,198
+<i>collect a sample and figure out
+why it's not eating Tau Ceti.</i>
+
+1044
+01:22:17,199 --> 01:22:18,672
+Who is Grace talking to?
+
+1045
+01:22:20,139 --> 01:22:21,811
+I'm not talking to anyone.
+
+1046
+01:22:24,819 --> 01:22:26,722
+I need a break.
+
+1047
+01:22:26,723 --> 01:22:28,484
+Break from what?
+- Oh my God.
+
+1048
+01:22:28,485 --> 01:22:30,454
+Forget it,
+this isn't gonna work.
+
+1049
+01:22:32,196 --> 01:22:34,232
+150 million kilometers away.
+
+1050
+01:22:34,233 --> 01:22:38,404
+Racing along
+at 162 kilometers per second.
+
+1051
+01:22:39,408 --> 01:22:41,786
+Means we should arrive
+at Tau Ceti-e at--
+
+1052
+01:22:41,787 --> 01:22:43,283
+<i>Arrival at Tau Ceti-e</i>
+
+1053
+01:22:43,284 --> 01:22:45,959
+<i>in 11 days, 3 hours
+and 14 minutes.</i>
+
+1054
+01:22:45,960 --> 01:22:48,029
+Thank you, Mary.
+<i>- You're welcome, Dr. Grace.</i>
+
+1055
+01:22:48,030 --> 01:22:50,164
+Thank you, Mary.
+<i>- You're welcome, Rocky.</i>
+
+1056
+01:22:54,813 --> 01:22:56,375
+Welcome to Earth.
+
+1057
+01:22:56,376 --> 01:22:58,412
+<i>You are in
+the Mental Health Node.</i>
+
+1058
+01:22:58,413 --> 01:22:59,855
+Whoa, whoa, whoa!
+
+1059
+01:22:59,856 --> 01:23:02,024
+Careful, Rocky.
+Rock. Look out below.
+
+1060
+01:23:02,025 --> 01:23:03,521
+<i>The beach is always changing.</i>
+
+1061
+01:23:03,522 --> 01:23:05,723
+You could go
+to the same spot every day,
+
+1062
+01:23:05,724 --> 01:23:07,462
+you're always looking
+at a different beach.
+
+1063
+01:23:12,012 --> 01:23:13,309
+Trees.
+
+1064
+01:23:14,445 --> 01:23:17,990
+And you climb, and you climb
+to the top if you can.
+
+1065
+01:23:17,991 --> 01:23:19,454
+<i>He's so excited about us</i>
+
+1066
+01:23:19,455 --> 01:23:20,962
+<i>both getting to go home.</i>
+
+1067
+01:23:21,999 --> 01:23:24,661
+<i>There's no harm in pretending
+for a little while.</i>
+
+1068
+01:23:25,731 --> 01:23:27,206
+Touch the wave, Rock.
+
+1069
+01:23:27,207 --> 01:23:28,946
+Touching the wave.
+
+1070
+01:23:28,947 --> 01:23:31,544
+Is wiping out. Hanging ten.
+
+1071
+01:23:31,545 --> 01:23:33,780
+Hey! Oh!
+
+1072
+01:23:33,781 --> 01:23:35,717
+The Big Apple, baby.
+
+1073
+01:23:35,718 --> 01:23:37,997
+In Three, Apollo trains him.
+
+1074
+01:23:37,998 --> 01:23:40,761
+And in Seven,
+he trains Apollo's kid.
+
+1075
+01:23:40,762 --> 01:23:42,302
+Yeah! Yeah! Yeah!
+
+1076
+01:23:42,303 --> 01:23:44,846
+Punch, punch, punch, punch.
+- Nice!
+
+1077
+01:23:44,847 --> 01:23:46,508
+<i>Adrian!</i>
+- <i>Rocky!</i>
+
+1078
+01:23:46,509 --> 01:23:48,083
+<i>♪ I say either, you say ♪</i>
+
+1079
+01:23:48,084 --> 01:23:49,382
+<i>♪ Say either ♪</i>
+
+1080
+01:23:49,383 --> 01:23:51,386
+Nope.
+
+1081
+01:23:51,387 --> 01:23:53,225
+<i>♪ I say neither, you say ♪</i>
+- <i>♪ Ne-i-ther ♪</i>
+
+1082
+01:23:53,226 --> 01:23:54,556
+No.
+
+1083
+01:23:56,364 --> 01:23:58,036
+I like Earth.
+
+1084
+01:24:00,735 --> 01:24:02,143
+I miss the fog.
+
+1085
+01:24:03,411 --> 01:24:04,776
+What about you, Rock?
+
+1086
+01:24:04,777 --> 01:24:05,745
+What do you miss most
+about home?
+
+1087
+01:24:05,746 --> 01:24:08,453
+Hmm, my mate.
+
+1088
+01:24:08,454 --> 01:24:10,160
+Wait, what?
+
+1089
+01:24:10,161 --> 01:24:11,459
+You got a mate?
+- Yes.
+
+1090
+01:24:11,460 --> 01:24:14,332
+I mean, not that you-- I mean--
+
+1091
+01:24:14,973 --> 01:24:16,337
+What's their name?
+
+1092
+01:24:16,338 --> 01:24:17,801
+Name is:
+
+1093
+01:24:30,829 --> 01:24:32,236
+It's beautiful.
+
+1094
+01:24:33,009 --> 01:24:36,706
+Grace have mate, question?
+
+1095
+01:24:37,479 --> 01:24:38,545
+No.
+
+1096
+01:24:39,351 --> 01:24:41,023
+I mean, I did.
+
+1097
+01:24:43,623 --> 01:24:46,496
+But she thought
+I had my head in the clouds
+
+1098
+01:24:46,497 --> 01:24:49,666
+and I didn't really want
+to live in the real world.
+
+1099
+01:24:52,377 --> 01:24:53,575
+She was right.
+
+1100
+01:24:55,119 --> 01:24:57,958
+Anyway, now she's with Mark.
+
+1101
+01:24:59,127 --> 01:25:00,755
+Rocky hate Mark.
+
+1102
+01:25:03,531 --> 01:25:06,107
+But enough about me.
+You have a mate.
+
+1103
+01:25:06,108 --> 01:25:08,012
+How long you been together?
+
+1104
+01:25:08,013 --> 01:25:10,346
+186.3 years.
+
+1105
+01:25:10,347 --> 01:25:12,086
+It's like the honeymoon phase.
+
+1106
+01:25:12,087 --> 01:25:14,387
+No understand.
+- That's a joke, Rock.
+
+1107
+01:25:14,388 --> 01:25:15,719
+That's a long time.
+
+1108
+01:25:15,720 --> 01:25:17,162
+You've been together
+a long time.
+
+1109
+01:25:17,163 --> 01:25:20,728
+Is not enough.
+
+1110
+01:25:28,009 --> 01:25:30,848
+<i>♪ Like brothers ♪</i>
+
+1111
+01:25:33,096 --> 01:25:35,627
+<i>♪ The future's in the air ♪</i>
+
+1112
+01:25:35,628 --> 01:25:39,305
+<i>♪ I can feel it everywhere ♪</i>
+
+1113
+01:25:39,306 --> 01:25:45,250
+<i>♪ Blowing
+With the wind of change ♪</i>
+
+1114
+01:25:58,179 --> 01:26:00,843
+Permission
+to come aboard, captain.
+
+1115
+01:26:00,844 --> 01:26:03,055
+You're already aboard.
+
+1116
+01:26:07,626 --> 01:26:09,398
+Did you get your free hat?
+
+1117
+01:26:09,399 --> 01:26:12,568
+Yeah, I kinda bought them.
+- Oh.
+
+1118
+01:26:13,605 --> 01:26:15,003
+You don't sing, huh?
+
+1119
+01:26:15,004 --> 01:26:16,676
+Yeah, I do.
+
+1120
+01:26:16,677 --> 01:26:19,451
+I actually sang in
+an Eastern German youth choir.
+
+1121
+01:26:19,452 --> 01:26:21,488
+You're very mysterious.
+
+1122
+01:26:21,489 --> 01:26:22,887
+No, I'm not.
+
+1123
+01:26:22,888 --> 01:26:24,493
+I always wanted to be
+
+1124
+01:26:26,367 --> 01:26:28,370
+mysterious.
+
+1125
+01:26:28,371 --> 01:26:30,969
+Talk too much.
+That's my problem.
+
+1126
+01:26:30,970 --> 01:26:34,382
+Like right now.
+
+1127
+01:26:34,383 --> 01:26:36,816
+I didn't mean to bother you.
+
+1128
+01:26:36,817 --> 01:26:37,983
+You don't bother me.
+
+1129
+01:26:37,984 --> 01:26:40,361
+It is such a weird party.
+
+1130
+01:26:40,362 --> 01:26:41,594
+Is it?
+
+1131
+01:26:41,595 --> 01:26:43,466
+Yáo is singing.
+
+1132
+01:26:43,467 --> 01:26:45,933
+Everyone's so happy.
+
+1133
+01:26:45,934 --> 01:26:48,707
+People are hooking up,
+
+1134
+01:26:48,708 --> 01:26:51,141
+and they all know
+they're gonna die.
+
+1135
+01:26:51,142 --> 01:26:55,083
+Camaraderie helps them
+do their job, you know.
+
+1136
+01:26:55,084 --> 01:26:57,196
+Not so much me. So
+
+1137
+01:26:59,334 --> 01:27:02,338
+Must be hard
+having to ask everybody to
+
+1138
+01:27:04,069 --> 01:27:05,707
+you know.
+
+1139
+01:27:06,348 --> 01:27:07,678
+Actually it isn't.
+
+1140
+01:27:12,459 --> 01:27:13,690
+Yeah.
+
+1141
+01:27:15,564 --> 01:27:18,602
+So, what do you think?
+
+1142
+01:27:18,603 --> 01:27:20,408
+You think
+you're gonna pull it off?
+
+1143
+01:27:20,409 --> 01:27:22,280
+What, the whole thing?
+
+1144
+01:27:22,281 --> 01:27:23,546
+Yeah.
+
+1145
+01:27:23,547 --> 01:27:25,615
+God willing.
+
+1146
+01:27:28,855 --> 01:27:30,460
+You believe in God?
+
+1147
+01:27:31,530 --> 01:27:33,059
+It beats the alternative.
+
+1148
+01:28:33,754 --> 01:28:35,856
+<i>♪ Just stop your crying ♪</i>
+
+1149
+01:28:35,857 --> 01:28:38,993
+<i>♪ It's a sign of the times ♪</i>
+
+1150
+01:28:40,228 --> 01:28:43,574
+<i>♪ Welcome to the final show ♪</i>
+
+1151
+01:28:43,575 --> 01:28:48,044
+<i>♪ I hope you're wearing
+your best clothes ♪</i>
+
+1152
+01:28:49,521 --> 01:28:54,056
+<i>♪ You can't bribe the door
+on your way to the sky ♪</i>
+
+1153
+01:28:56,260 --> 01:28:59,440
+<i>♪ You look pretty good
+Down here ♪</i>
+
+1154
+01:29:00,110 --> 01:29:05,552
+<i>♪ But you ain't really good
+Oh ♪</i>
+
+1155
+01:29:05,553 --> 01:29:08,458
+<i>♪ We never learn
+We've been here before ♪</i>
+
+1156
+01:29:09,495 --> 01:29:12,831
+<i>♪ Why are we always stuck
+and running from ♪</i>
+
+1157
+01:29:12,832 --> 01:29:14,503
+<i>♪ The bullets? ♪</i>
+
+1158
+01:29:16,333 --> 01:29:19,403
+<i>♪ The bullets ♪</i>
+
+1159
+01:29:21,519 --> 01:29:25,558
+<i>♪ Just stop your crying
+It's a sign of the times ♪</i>
+
+1160
+01:29:28,225 --> 01:29:34,973
+<i>♪ We gotta get away from here ♪</i>
+
+1161
+01:29:37,683 --> 01:29:41,789
+<i>♪ Just stop your crying
+It'll be all right ♪</i>
+
+1162
+01:29:44,488 --> 01:29:47,360
+<i>♪ They told me
+That the end is near ♪</i>
+
+1163
+01:29:48,230 --> 01:29:53,681
+<i>♪ We gotta get away
+From here, oh ♪</i>
+
+1164
+01:29:53,682 --> 01:29:58,019
+<i>♪ Just stop your crying
+Have the time of your life ♪</i>
+
+1165
+01:30:00,388 --> 01:30:03,392
+<i>♪ Breaking through
+The atmosphere ♪</i>
+
+1166
+01:30:04,396 --> 01:30:07,675
+<i>♪ And it all looks good
+From here ♪</i>
+
+1167
+01:30:09,946 --> 01:30:14,789
+<i>♪ Remember
+Everything will be all right ♪</i>
+
+1168
+01:30:16,695 --> 01:30:19,391
+<i>♪ We can meet again somewhere ♪</i>
+
+1169
+01:30:20,328 --> 01:30:23,598
+<i>♪ Somewhere far
+Away from here ♪</i>
+
+1170
+01:30:23,599 --> 01:30:25,502
+And that is enough.
+
+1171
+01:30:52,591 --> 01:30:54,428
+<i>I wish
+you could see this, Rock.</i>
+
+1172
+01:30:55,465 --> 01:30:57,138
+Rocky can see.
+
+1173
+01:30:57,139 --> 01:30:58,746
+Boring.
+
+1174
+01:30:58,747 --> 01:31:00,980
+<i>What? This is not boring.</i>
+
+1175
+01:31:02,446 --> 01:31:05,991
+Name of planet
+Tau Ceti-e is same name
+
+1176
+01:31:05,992 --> 01:31:07,587
+as star plus "E."
+
+1177
+01:31:07,588 --> 01:31:09,063
+Boring.
+
+1178
+01:31:09,064 --> 01:31:13,004
+I guess it could be
+a little more evocative.
+
+1179
+01:31:15,670 --> 01:31:17,916
+Astrophage sampler
+in position, question?
+
+1180
+01:31:17,917 --> 01:31:19,854
+Yep.
+
+1181
+01:31:19,855 --> 01:31:22,353
+Trays are live,
+looking both ways.
+
+1182
+01:31:22,354 --> 01:31:24,488
+It is time go.
+
+1183
+01:31:25,723 --> 01:31:27,263
+It's time go.
+
+1184
+01:32:07,984 --> 01:32:09,855
+What is Grace doing, question?
+
+1185
+01:32:09,856 --> 01:32:12,221
+I'm having a moment.
+
+1186
+01:32:40,675 --> 01:32:42,282
+You know, back on Earth,
+
+1187
+01:32:42,283 --> 01:32:43,747
+if you discover something,
+you get to name it.
+
+1188
+01:32:43,748 --> 01:32:46,092
+You were technically
+the first one here, so
+
+1189
+01:32:46,093 --> 01:32:51,299
+Yes, name is Medium-Rough
+Texture Circle Planet.
+
+1190
+01:32:52,006 --> 01:32:53,666
+<i>'Kay.</i>
+
+1191
+01:32:54,236 --> 01:32:58,281
+Well, if Medium-Rough Texture
+Circle Planet was taken,
+
+1192
+01:32:58,282 --> 01:33:00,880
+we'll just have a backup.
+
+1193
+01:33:00,881 --> 01:33:03,225
+Maybe go
+with something personal.
+
+1194
+01:33:03,226 --> 01:33:04,788
+<i>Personal.</i>
+
+1195
+01:33:09,271 --> 01:33:11,439
+What's your mate's name again?
+
+1196
+01:33:11,440 --> 01:33:12,903
+Name is
+
+1197
+01:33:14,710 --> 01:33:16,955
+<i>It's okay,
+it's okay. I remember.</i>
+
+1198
+01:33:17,750 --> 01:33:20,654
+Need human word for Rocky mate.
+
+1199
+01:33:23,200 --> 01:33:24,961
+Adrian.
+
+1200
+01:33:24,962 --> 01:33:27,008
+Is beautiful.
+
+1201
+01:34:23,188 --> 01:34:24,817
+Well, that's weird.
+
+1202
+01:34:24,818 --> 01:34:26,556
+What?
+
+1203
+01:34:26,557 --> 01:34:29,198
+It's the same amount,
+both coming and going.
+
+1204
+01:34:31,832 --> 01:34:34,341
+But if Astrophage
+going to Adrian to breed,
+
+1205
+01:34:34,342 --> 01:34:36,103
+there should be more leaving.
+
+1206
+01:34:36,104 --> 01:34:37,512
+It should be double.
+It doesn't make sense.
+
+1207
+01:34:37,513 --> 01:34:39,109
+It's either not reproducing
+
+1208
+01:34:39,110 --> 01:34:43,721
+or it's not leaving the planet
+for some reason.
+
+1209
+01:34:50,936 --> 01:34:52,608
+Oh, my God.
+
+1210
+01:34:52,609 --> 01:34:55,074
+What? What Grace see?
+What Grace see, question?
+
+1211
+01:35:00,493 --> 01:35:02,396
+Life.
+
+1212
+01:35:10,778 --> 01:35:13,320
+This is not just Astrophage.
+
+1213
+01:35:13,321 --> 01:35:15,357
+It's bacteria, it's protozoa.
+
+1214
+01:35:15,358 --> 01:35:16,855
+It's like cells on Erid.
+
+1215
+01:35:16,856 --> 01:35:18,693
+And Earth.
+
+1216
+01:35:18,694 --> 01:35:20,498
+What this mean, question?
+
+1217
+01:35:21,235 --> 01:35:24,805
+Well, if there's a whole
+active biosphere
+
+1218
+01:35:24,806 --> 01:35:26,544
+in the Petrova line,
+
+1219
+01:35:26,545 --> 01:35:28,416
+it stands to reason there's
+a whole active biosphere
+
+1220
+01:35:28,417 --> 01:35:30,584
+on Adrian, which means
+
+1221
+01:35:33,592 --> 01:35:35,055
+There's life on Adrian.
+
+1222
+01:35:41,575 --> 01:35:43,479
+Oh, Grace! Grace!
+- Yeah?
+
+1223
+01:35:43,480 --> 01:35:45,714
+Life. Life is reason.
+Life is reason!
+
+1224
+01:35:45,715 --> 01:35:48,115
+Yeah. You said it, buddy.
+Life is the reason.
+
+1225
+01:35:48,116 --> 01:35:49,789
+No understand. No understand.
+
+1226
+01:35:49,790 --> 01:35:51,396
+Use your words.
+Life's the reason for what?
+
+1227
+01:35:51,397 --> 01:35:54,259
+Life is reason.
+- Life is the reason for what?
+
+1228
+01:35:54,260 --> 01:35:56,439
+Life is reason. Life is reason.
+
+1229
+01:35:56,440 --> 01:35:58,234
+- Life is reason what?
+
+1230
+01:35:58,235 --> 01:35:59,743
+Life on Adrian is reason
+
+1231
+01:35:59,744 --> 01:36:01,240
+Astrophage in balance.
+
+1232
+01:36:01,241 --> 01:36:04,718
+Life on Adrian
+makes Astrophage die.
+
+1233
+01:36:05,822 --> 01:36:07,219
+Like a predator.
+
+1234
+01:36:07,220 --> 01:36:08,661
+Yes.
+
+1235
+01:36:08,662 --> 01:36:10,599
+That would
+keep the population stable.
+
+1236
+01:36:10,600 --> 01:36:12,669
+Grace,
+if we bring predator home
+
+1237
+01:36:12,670 --> 01:36:14,101
+our stars not die.
+
+1238
+01:36:14,102 --> 01:36:17,139
+Life is reason star not die.
+
+1239
+01:36:18,517 --> 01:36:20,586
+Why didn't you just say that?
+
+1240
+01:36:20,587 --> 01:36:22,315
+<i>If there is some kind</i>
+
+1241
+01:36:22,316 --> 01:36:24,088
+<i>of microbial predator
+on Adrian,</i>
+
+1242
+01:36:24,089 --> 01:36:26,367
+<i>it'll be in the clouds
+where Astrophage breeds.</i>
+
+1243
+01:36:26,368 --> 01:36:28,261
+Check. Oh.
+
+1244
+01:36:28,262 --> 01:36:29,968
+The problem is this ship
+
+1245
+01:36:29,969 --> 01:36:32,137
+wasn't built
+to go into the atmosphere.
+
+1246
+01:36:32,138 --> 01:36:33,645
+If we get
+within five kilometers,
+
+1247
+01:36:33,646 --> 01:36:34,846
+we'll be ripped
+into a million pieces
+
+1248
+01:36:34,847 --> 01:36:35,947
+and then we'll burn up.
+
+1249
+01:36:35,948 --> 01:36:37,455
+Game over.
+
+1250
+01:36:37,456 --> 01:36:38,788
+Game not over.
+
+1251
+01:36:38,789 --> 01:36:40,428
+I make chain.
+I make long chain.
+
+1252
+01:36:40,429 --> 01:36:42,630
+I put collection device on end.
+
+1253
+01:36:42,631 --> 01:36:44,568
+Oh, yeah, yeah.
+Five kilometers of chain. Sure.
+
+1254
+01:36:44,569 --> 01:36:46,870
+- Guard me!
+- Like this chain. Look.
+
+1255
+01:36:46,871 --> 01:36:49,171
+You can do that?
+- Yes.
+
+1256
+01:36:49,172 --> 01:36:50,580
+Kinda like fishing.
+
+1257
+01:36:50,581 --> 01:36:52,276
+What that?
+
+1258
+01:36:52,277 --> 01:36:53,718
+Whoa, whoa!
+
+1259
+01:36:53,719 --> 01:36:56,085
+Fishing!
+Can you believe it?
+
+1260
+01:36:57,430 --> 01:37:00,633
+It could work.
+- Thumbs up, baby.
+
+1261
+01:37:00,634 --> 01:37:01,801
+Hello, Earth!
+
+1262
+01:37:01,802 --> 01:37:03,474
+Plan is like fishing.
+
+1263
+01:37:03,475 --> 01:37:06,172
+We get very close
+to Adrian atmosphere
+
+1264
+01:37:06,173 --> 01:37:08,848
+and lower collector
+into clouds with chain.
+
+1265
+01:37:08,849 --> 01:37:11,050
+Then Grace go on hull
+to reel it in.
+
+1266
+01:37:11,051 --> 01:37:14,023
+If ship not at precise
+angle and speed, we die!
+
+1267
+01:37:14,024 --> 01:37:15,662
+Example!
+
+1268
+01:37:17,228 --> 01:37:19,099
+We must fly backwards
+to keep proper velocity,
+
+1269
+01:37:19,100 --> 01:37:22,270
+even though Grace
+still have no pilot experience.
+
+1270
+01:37:22,271 --> 01:37:24,406
+But I've been practicing,
+haven't I?
+
+1271
+01:37:24,407 --> 01:37:26,080
+More! No. Left. Be left.
+- What?
+
+1272
+01:37:26,081 --> 01:37:29,119
+More left. More left.
+Is perfect. No. Wrong.
+
+1273
+01:37:29,120 --> 01:37:30,561
+<i>Erratic maneuver detected.</i>
+
+1274
+01:37:30,562 --> 01:37:31,795
+No.
+Wrong way. Wrong angle.
+
+1275
+01:37:31,796 --> 01:37:33,259
+Bad, bad, bad.
+Good, good, good.
+
+1276
+01:37:33,260 --> 01:37:34,768
+Good. Bad. Not enough.
+
+1277
+01:37:34,769 --> 01:37:35,968
+Not enough.
+Too much! Left, left, left.
+
+1278
+01:37:35,969 --> 01:37:37,465
+I'm barely pulling it!
+
+1279
+01:37:37,466 --> 01:37:38,809
+No, is bad.
+Grace Rocky dead.
+
+1280
+01:37:38,810 --> 01:37:40,339
+All Rocky plural,
+all Earth, die.
+
+1281
+01:37:40,340 --> 01:37:43,377
+<i>Power off.</i>
+- We die. We die.
+
+1282
+01:37:44,557 --> 01:37:46,825
+Rocky has
+built predator collector.
+
+1283
+01:37:46,826 --> 01:37:48,928
+Rocky chain spooled and ready.
+
+1284
+01:37:48,929 --> 01:37:51,064
+Grace pilot training
+not as good.
+
+1285
+01:37:51,065 --> 01:37:53,100
+What think, Earth?
+
+1286
+01:37:55,073 --> 01:37:56,404
+Hello?
+
+1287
+01:37:56,405 --> 01:37:58,177
+They can't hear you, pal.
+- What?
+
+1288
+01:37:58,178 --> 01:38:00,082
+We're not actually talking
+to Earth. Earth's too far away.
+
+1289
+01:38:00,083 --> 01:38:01,590
+We just record these messages
+
+1290
+01:38:01,591 --> 01:38:03,022
+and we tell 'em
+what we've learned,
+
+1291
+01:38:03,023 --> 01:38:04,354
+and then when we're done,
+
+1292
+01:38:04,355 --> 01:38:05,962
+we'll send them
+all back in a probe.
+
+1293
+01:38:05,963 --> 01:38:07,734
+Why not you tell them yourself
+
+1294
+01:38:07,735 --> 01:38:09,506
+when you return home, question?
+
+1295
+01:38:10,841 --> 01:38:12,910
+Yeah.
+
+1296
+01:38:12,911 --> 01:38:15,112
+This is a one-way ticket
+for me, pal.
+
+1297
+01:38:15,113 --> 01:38:16,719
+What?
+
+1298
+01:38:16,720 --> 01:38:18,052
+We had enough
+Astrophage to get here
+
+1299
+01:38:18,053 --> 01:38:19,593
+but not enough to get back.
+
+1300
+01:38:19,594 --> 01:38:22,390
+So,
+what happens Grace, question?
+
+1301
+01:38:22,391 --> 01:38:24,493
+Oh
+I got enough food to last me
+
+1302
+01:38:24,494 --> 01:38:26,002
+at least a couple years.
+
+1303
+01:38:26,003 --> 01:38:28,467
+Maybe a couple more
+if I stretch it out.
+
+1304
+01:38:29,070 --> 01:38:31,683
+So Grace die, question?
+
+1305
+01:38:31,684 --> 01:38:33,786
+Yeah, once we're done, I'm
+
+1306
+01:38:35,054 --> 01:38:36,219
+I'm gonna die.
+
+1307
+01:38:38,456 --> 01:38:40,095
+Why didn't you tell me?
+
+1308
+01:38:40,868 --> 01:38:42,738
+It slipped my mind.
+
+1309
+01:38:42,740 --> 01:38:45,337
+No.
+Grace say Grace go home.
+
+1310
+01:38:45,338 --> 01:38:46,912
+Look.
+
+1311
+01:38:46,913 --> 01:38:49,818
+Listen. Listen. Listen.
+- No. No.
+
+1312
+01:38:50,722 --> 01:38:52,615
+I got to meet you.
+
+1313
+01:38:52,616 --> 01:38:55,060
+I got to do
+all this amazing stuff.
+
+1314
+01:38:55,061 --> 01:38:57,459
+I'm good.
+I've made peace with it.
+
+1315
+01:38:58,196 --> 01:39:00,433
+What mean?
+What mean "make peace"?
+
+1316
+01:39:00,434 --> 01:39:01,974
+It means
+
+1317
+01:39:02,680 --> 01:39:05,146
+I know I'm not going home
+
+1318
+01:39:05,147 --> 01:39:06,643
+I know why
+
+1319
+01:39:06,644 --> 01:39:08,580
+and it's okay.
+
+1320
+01:39:11,765 --> 01:39:13,734
+Thumbs up?
+- No.
+
+1321
+01:39:13,735 --> 01:39:15,429
+Tiny thumbs up?
+- No.
+
+1322
+01:39:16,367 --> 01:39:18,975
+We got stars to save. Okay?
+
+1323
+01:39:23,789 --> 01:39:25,923
+Grace?
+- Yeah.
+
+1324
+01:39:26,651 --> 01:39:28,224
+You are
+
+1325
+01:39:31,529 --> 01:39:32,905
+Need word.
+
+1326
+01:39:32,906 --> 01:39:34,810
+W-W-What word do you need?
+
+1327
+01:39:34,811 --> 01:39:37,045
+To risk self to help another.
+
+1328
+01:39:37,046 --> 01:39:38,211
+Uh, dumb.
+
+1329
+01:39:39,017 --> 01:39:40,512
+Grace?
+
+1330
+01:40:06,104 --> 01:40:08,271
+How much Astrophage
+you need, question?
+
+1331
+01:40:09,242 --> 01:40:11,343
+Two million kilograms.
+
+1332
+01:40:15,893 --> 01:40:17,553
+I can give.
+
+1333
+01:40:20,837 --> 01:40:23,808
+I go home six years slower.
+
+1334
+01:40:25,880 --> 01:40:27,441
+That's too much.
+
+1335
+01:40:28,478 --> 01:40:30,150
+Rocky watch crew die.
+
+1336
+01:40:30,747 --> 01:40:32,253
+Could not fix.
+
+1337
+01:40:33,224 --> 01:40:35,061
+Grace say Grace will die.
+
+1338
+01:40:35,867 --> 01:40:37,362
+Rocky fix.
+
+1339
+01:40:53,462 --> 01:40:55,233
+Grace go home.
+
+1340
+01:41:06,422 --> 01:41:07,719
+Okay.
+
+1341
+01:41:30,173 --> 01:41:33,244
+I thought
+you made peace, question?
+
+1342
+01:41:33,245 --> 01:41:36,249
+I didn't mean
+any of that.
+
+1343
+01:41:37,220 --> 01:41:39,123
+That's just something you say.
+
+1344
+01:41:46,370 --> 01:41:47,700
+Thank you.
+
+1345
+01:41:56,225 --> 01:41:57,390
+Get over here.
+
+1346
+01:41:59,892 --> 01:42:02,864
+Whoa, whoa, whoa.
+What? What's happening?
+
+1347
+01:42:02,865 --> 01:42:05,275
+A hug.
+- Oh! Hmm.
+
+1348
+01:42:05,276 --> 01:42:09,250
+It's usually not something
+one does by themselves.
+
+1349
+01:42:09,251 --> 01:42:10,913
+Oh. Wait, I do the same?
+
+1350
+01:42:10,914 --> 01:42:12,585
+Would you just get in here?
+
+1351
+01:42:20,802 --> 01:42:23,245
+How do you know
+when the hug is done?
+
+1352
+01:42:23,246 --> 01:42:25,314
+You just feel it.
+- Oh.
+
+1353
+01:42:26,714 --> 01:42:28,288
+Are you feeling it now?
+
+1354
+01:42:28,289 --> 01:42:29,389
+Nope.
+
+1355
+01:42:29,390 --> 01:42:30,853
+Oh. Oh, okay. Yeah.
+
+1356
+01:42:36,173 --> 01:42:38,473
+<i>We ran the sampler
+simulation again this morning.</i>
+
+1357
+01:42:38,474 --> 01:42:40,742
+Shapiro and DuBois
+nailed it again.
+
+1358
+01:42:40,743 --> 01:42:42,612
+Okay. What about the others?
+
+1359
+01:42:43,319 --> 01:42:44,683
+They'll be ready.
+
+1360
+01:42:44,684 --> 01:42:46,015
+I expect so.
+
+1361
+01:42:46,688 --> 01:42:48,195
+They have a great teacher.
+
+1362
+01:42:51,731 --> 01:42:53,096
+Can you
+take a compliment please?
+
+1363
+01:42:53,097 --> 01:42:54,505
+No.
+
+1364
+01:42:54,506 --> 01:42:56,212
+It's an order. Okay?
+
+1365
+01:42:56,213 --> 01:42:59,580
+Okay. If it's an order,
+I'll take it. Thank you.
+
+1366
+01:43:00,254 --> 01:43:02,047
+Good.
+
+1367
+01:43:04,328 --> 01:43:05,725
+What do you think?
+
+1368
+01:43:05,726 --> 01:43:08,598
+It's pretty impressive.
+
+1369
+01:43:09,470 --> 01:43:10,867
+Yeah.
+- You're
+
+1370
+01:43:12,311 --> 01:43:13,476
+You're good.
+
+1371
+01:43:17,255 --> 01:43:19,356
+- Three days, huh?
+
+1372
+01:43:21,021 --> 01:43:22,197
+Yeah.
+
+1373
+01:43:23,696 --> 01:43:27,032
+So, what are you gonna do
+for the next 20 years?
+
+1374
+01:43:27,033 --> 01:43:28,099
+You got a plan?
+
+1375
+01:44:20,745 --> 01:44:23,011
+<i>Manual mode activated.</i>
+
+1376
+01:44:28,959 --> 01:44:30,025
+Go.
+
+1377
+01:45:01,188 --> 01:45:02,464
+That's not half bad!
+
+1378
+01:45:02,465 --> 01:45:03,862
+Is full good.
+
+1379
+01:45:10,415 --> 01:45:11,879
+Time go fishing, question?
+
+1380
+01:45:11,880 --> 01:45:13,518
+It's now or never.
+
+1381
+01:45:25,743 --> 01:45:27,140
+Three thousand meters.
+- Three thousand.
+
+1382
+01:45:27,141 --> 01:45:28,449
+Probe signal good.
+
+1383
+01:45:45,915 --> 01:45:47,620
+Now comes the fun part.
+
+1384
+01:45:47,621 --> 01:45:48,887
+Grace go out on hull
+to retrieve collector?
+
+1385
+01:45:48,888 --> 01:45:49,955
+No fun at all.
+
+1386
+01:45:49,956 --> 01:45:51,254
+It's a joke.
+
+1387
+01:45:51,255 --> 01:45:53,598
+Oh, humor. Confusing.
+
+1388
+01:46:00,339 --> 01:46:02,012
+You gotta be kidding me.
+
+1389
+01:46:02,013 --> 01:46:03,212
+What problem, question?
+
+1390
+01:46:03,213 --> 01:46:05,315
+It's fine. It's just
+
+1391
+01:46:05,316 --> 01:46:08,056
+the sky is slightly on fire.
+
+1392
+01:46:11,196 --> 01:46:12,361
+Words of encouragement.
+
+1393
+01:46:13,231 --> 01:46:15,268
+You can't just say
+"words of encouragement."
+
+1394
+01:46:16,305 --> 01:46:18,308
+<i>Words of great encouragement.</i>
+
+1395
+01:46:18,309 --> 01:46:19,584
+<i>Nope.</i>
+
+1396
+01:46:41,421 --> 01:46:43,291
+<i>Did you feel that?</i>
+- Yes.
+
+1397
+01:46:44,130 --> 01:46:46,672
+I'm not worried.
+Are you worried?
+
+1398
+01:46:46,673 --> 01:46:47,840
+Yes.
+
+1399
+01:46:47,841 --> 01:46:48,973
+Great.
+
+1400
+01:47:03,102 --> 01:47:05,676
+Collector is closed.
+Move winch into position.
+
+1401
+01:47:09,477 --> 01:47:10,984
+- Whoa!
+
+1402
+01:47:17,625 --> 01:47:19,231
+<i>How long
+is this supposed to take?</i>
+
+1403
+01:47:20,973 --> 01:47:22,436
+<i>Collector should be here soon.</i>
+
+1404
+01:47:22,437 --> 01:47:24,275
+Yeah. It's here.
+
+1405
+01:47:24,276 --> 01:47:25,441
+Amaze, amaze, amaze!
+
+1406
+01:47:30,728 --> 01:47:32,192
+Careful. Collector important.
+
+1407
+01:47:32,193 --> 01:47:33,931
+Yup.
+
+1408
+01:47:36,741 --> 01:47:38,876
+<i>Altitude warning.</i>
+
+1409
+01:47:38,877 --> 01:47:39,910
+Oh, hurry, hurry.
+
+1410
+01:47:56,208 --> 01:47:57,538
+Hurry, hurry.
+
+1411
+01:48:08,298 --> 01:48:09,838
+Grace?
+
+1412
+01:48:12,813 --> 01:48:13,945
+Grace, status update.
+
+1413
+01:48:15,279 --> 01:48:16,819
+Status update.
+
+1414
+01:48:17,448 --> 01:48:18,613
+<i>Grace?</i>
+
+1415
+01:48:20,355 --> 01:48:21,797
+<i>Grace is safe, question?</i>
+
+1416
+01:48:21,798 --> 01:48:24,032
+I'm okay.
+
+1417
+01:48:24,033 --> 01:48:25,529
+Good, good, good.
+
+1418
+01:48:25,530 --> 01:48:27,334
+Come inside
+with predator collector now.
+
+1419
+01:48:29,241 --> 01:48:31,079
+Uh
+
+1420
+01:48:31,080 --> 01:48:33,214
+<i>Why not moving, question?</i>
+
+1421
+01:48:34,890 --> 01:48:37,652
+<i>Warning!
+Exterior temperature elevated.</i>
+
+1422
+01:48:37,653 --> 01:48:39,556
+Must move now. Go, go.
+
+1423
+01:48:48,378 --> 01:48:50,546
+No, Grace.
+Bad idea. Come inside.
+
+1424
+01:48:50,547 --> 01:48:52,385
+I'll be there in a minute.
+
+1425
+01:48:52,386 --> 01:48:54,256
+<i>No, no, no,
+no, no. Grace will die.</i>
+
+1426
+01:48:55,026 --> 01:48:56,867
+Can repeat mission.
+Can try again later.
+
+1427
+01:48:56,868 --> 01:48:58,529
+I don't think
+there is gonna be a later.
+
+1428
+01:48:58,530 --> 01:49:00,765
+Abort, abort, abort.
+
+1429
+01:49:00,766 --> 01:49:03,505
+<i>Grace will die.
+No-No-No-No-No-No-No-No-No.</i>
+
+1430
+01:49:34,338 --> 01:49:35,911
+Grace?
+- I'm here!
+
+1431
+01:49:36,981 --> 01:49:38,411
+Amaze, amaze, amaze!
+
+1432
+01:49:38,412 --> 01:49:40,184
+- Grace okay, question?
+
+1433
+01:49:40,185 --> 01:49:42,056
+Well, I'm not dead, so yes.
+
+1434
+01:49:42,057 --> 01:49:43,553
+Good, good, good, good.
+
+1435
+01:49:43,554 --> 01:49:45,722
+Where
+is that noise coming from?
+
+1436
+01:49:45,723 --> 01:49:47,165
+Noise is from all around.
+
+1437
+01:49:47,166 --> 01:49:49,896
+It's loudest
+at port side of bedroom.
+
+1438
+01:49:49,897 --> 01:49:53,374
+The gravity's
+tearing the ship apart.
+
+1439
+01:49:55,182 --> 01:49:56,612
+We leave now, question?
+
+1440
+01:49:56,613 --> 01:49:59,122
+We leave now, statement.
+
+1441
+01:50:10,146 --> 01:50:12,116
+<i>Hull pressure warning.</i>
+
+1442
+01:50:12,117 --> 01:50:14,186
+Hull bending
+in big room below bedroom.
+
+1443
+01:50:14,187 --> 01:50:15,319
+That's the fuel tanks.
+
+1444
+01:50:17,556 --> 01:50:19,824
+Oh. Bad, bad, bad.
+- Well, it's not great.
+
+1445
+01:50:19,825 --> 01:50:21,167
+Bad, bad, bad.
+- <i>Warning.</i>
+
+1446
+01:50:21,168 --> 01:50:23,434
+Everybody, calm down.
+Calm down!
+
+1447
+01:50:27,147 --> 01:50:28,610
+Try and keep
+yourself together, Mary.
+
+1448
+01:50:28,611 --> 01:50:30,119
+Stop engine now?
+- Not yet.
+
+1449
+01:50:30,120 --> 01:50:32,156
+We need to get
+into orbit or we'll crash!
+
+1450
+01:50:32,157 --> 01:50:34,953
+I have an idea.
+First, no crash.
+
+1451
+01:50:34,954 --> 01:50:37,166
+Then, not explode. Deal?
+
+1452
+01:50:37,167 --> 01:50:38,332
+Deal!
+
+1453
+01:50:40,404 --> 01:50:42,307
+Hold on.
+
+1454
+01:50:43,906 --> 01:50:45,413
+Now?
+
+1455
+01:50:45,414 --> 01:50:46,579
+Wait.
+
+1456
+01:50:49,786 --> 01:50:51,028
+Now? Now?
+
+1457
+01:50:52,296 --> 01:50:54,034
+Now!
+
+1458
+01:51:05,289 --> 01:51:06,487
+Did we do it?
+
+1459
+01:51:28,203 --> 01:51:29,600
+Why ship moving, question?
+
+1460
+01:51:29,601 --> 01:51:30,998
+There's a hole in it!
+
+1461
+01:51:32,442 --> 01:51:34,181
+- <i>Hull breach.</i>
+
+1462
+01:51:34,182 --> 01:51:36,878
+<i>Port side fuel compartments
+11 and 12.</i>
+
+1463
+01:51:39,654 --> 01:51:42,086
+Grace.
+What happening, question?
+
+1464
+01:51:43,090 --> 01:51:45,730
+The fuel
+is migrating to Adrian!
+
+1465
+01:51:50,941 --> 01:51:53,043
+Eject bad fuel bay, question?
+
+1466
+01:51:53,044 --> 01:51:55,014
+Yeah.
+
+1467
+01:51:55,015 --> 01:51:58,492
+<i>Jettison port fuel tank
+compartment 12. Confirm.</i>
+
+1468
+01:52:07,644 --> 01:52:09,845
+Rocky!
+
+1469
+01:52:20,736 --> 01:52:25,074
+<i>Jettison port fuel tank
+compartment 11. Confirm.</i>
+
+1470
+01:52:25,075 --> 01:52:27,715
+Eject other fuel bay.
+
+1471
+01:55:42,976 --> 01:55:44,505
+One nanogram of Astrophage
+
+1472
+01:55:44,506 --> 01:55:46,884
+just isn't enough
+to blow up a building.
+
+1473
+01:55:46,885 --> 01:55:48,822
+The quartermaster gave him
+
+1474
+01:55:48,823 --> 01:55:50,187
+one milligram by mistake.
+
+1475
+01:55:50,188 --> 01:55:51,927
+That's a million times
+the heat energy
+
+1476
+01:55:51,928 --> 01:55:53,655
+that they're prepared for.
+
+1477
+01:55:53,656 --> 01:55:56,705
+A measuring mistake
+killed my entire science team?
+
+1478
+01:55:56,706 --> 01:55:59,303
+It doesn't matter.
+We have to launch.
+
+1479
+01:56:06,022 --> 01:56:08,796
+If we miss the orbital window,
+it'll set us back months.
+
+1480
+01:56:08,797 --> 01:56:10,359
+Yeah,
+but if no one's trained
+
+1481
+01:56:10,360 --> 01:56:12,066
+to do the mission,
+it won't matter.
+
+1482
+01:56:12,067 --> 01:56:13,662
+Casualty projections
+go up exponentially
+
+1483
+01:56:13,663 --> 01:56:14,742
+if we delay.
+
+1484
+01:56:14,743 --> 01:56:16,041
+We launch on schedule
+
+1485
+01:56:16,042 --> 01:56:17,175
+with a replacement
+science officer.
+
+1486
+01:56:17,176 --> 01:56:18,715
+Okay, but
+
+1487
+01:56:20,512 --> 01:56:21,545
+who?
+
+1488
+01:56:23,518 --> 01:56:25,862
+I mean, that
+
+1489
+01:56:41,863 --> 01:56:43,128
+I'm not an astronaut.
+
+1490
+01:56:43,129 --> 01:56:44,835
+I don't need an astronaut.
+
+1491
+01:56:44,836 --> 01:56:47,400
+I need an expert on Astrophage
+who's mission-ready.
+
+1492
+01:56:47,401 --> 01:56:48,500
+I'm not ready.
+
+1493
+01:56:49,370 --> 01:56:52,542
+I don't have any training.
+
+1494
+01:56:52,543 --> 01:56:53,952
+You'll pick it up.
+
+1495
+01:56:53,953 --> 01:56:55,316
+I'm not an astronaut!
+
+1496
+01:56:55,986 --> 01:56:57,960
+I put the "not" in astronaut.
+
+1497
+01:56:57,961 --> 01:56:59,655
+I've never done anything--
+
+1498
+01:56:59,656 --> 01:57:01,792
+I've never done a space wa--
+I can't even moonwalk!
+
+1499
+01:57:01,793 --> 01:57:03,796
+I haven't done
+the whole pool thing.
+
+1500
+01:57:03,797 --> 01:57:05,800
+No, no, no. This is just we do
+for the picture,
+
+1501
+01:57:05,801 --> 01:57:07,011
+for social media.
+
+1502
+01:57:07,012 --> 01:57:09,114
+I'm not heroic in any way.
+
+1503
+01:57:09,115 --> 01:57:11,415
+I get sick on an elevator.
+
+1504
+01:57:11,416 --> 01:57:13,860
+Oh, perfect. There's
+no elevator on the ship.
+
+1505
+01:57:13,861 --> 01:57:15,258
+I cannot do this.
+
+1506
+01:57:15,259 --> 01:57:17,261
+You're smart.
+You'll figure it out.
+
+1507
+01:57:20,269 --> 01:57:23,208
+This might be very hard
+for you to understand,
+
+1508
+01:57:23,209 --> 01:57:24,882
+but some people are failures.
+
+1509
+01:57:24,883 --> 01:57:26,709
+Some people <i>don't</i> rise
+to the challenge.
+
+1510
+01:57:26,710 --> 01:57:29,253
+You've been present
+for every major scientific
+
+1511
+01:57:29,254 --> 01:57:31,587
+or strategic meeting
+we've had on the mission.
+
+1512
+01:57:31,588 --> 01:57:33,856
+You're missing out an
+important part of the mission
+
+1513
+01:57:33,857 --> 01:57:35,794
+which is the suicide part.
+
+1514
+01:57:35,795 --> 01:57:38,304
+Grace, you'd be
+in very cool company.
+
+1515
+01:57:38,305 --> 01:57:40,473
+If you don't go,
+you die anyway.
+
+1516
+01:57:40,474 --> 01:57:43,677
+Yeah,
+but I die in 30 years with--
+
+1517
+01:57:43,678 --> 01:57:44,921
+"With the rest of us."
+
+1518
+01:57:46,288 --> 01:57:49,259
+You have no immediate family.
+You don't even have a dog.
+
+1519
+01:57:52,102 --> 01:57:54,005
+So, just so I'm clear
+
+1520
+01:57:54,899 --> 01:57:57,077
+you're asking me right now
+
+1521
+01:57:59,512 --> 01:58:00,612
+to give up my life.
+
+1522
+01:58:00,613 --> 01:58:02,450
+I am. We all are.
+
+1523
+01:58:06,857 --> 01:58:08,232
+Can I think about this?
+
+1524
+01:58:08,233 --> 01:58:09,365
+You have three hours.
+
+1525
+01:58:54,953 --> 01:58:57,032
+<i>Eye movement detected.</i>
+
+1526
+01:58:58,465 --> 01:59:00,236
+<i>Good morning, Dr. Grace.</i>
+
+1527
+02:00:19,022 --> 02:00:21,024
+I'll watch you sleep, pal.
+
+1528
+02:00:28,172 --> 02:00:29,513
+But, uh
+
+1529
+02:00:31,255 --> 02:00:32,784
+you gotta wake up.
+
+1530
+02:01:07,624 --> 02:01:09,296
+<i>I'm not sure what to do.</i>
+
+1531
+02:01:14,165 --> 02:01:16,167
+<i>Done everything I can think of.</i>
+
+1532
+02:01:22,016 --> 02:01:23,654
+<i>I made him a heat lamp.</i>
+
+1533
+02:01:46,361 --> 02:01:48,804
+<i>And he left me
+one last message.</i>
+
+1534
+02:03:30,944 --> 02:03:32,947
+We have our predator.
+
+1535
+02:03:32,948 --> 02:03:35,821
+Right now
+I'm calling it "Taumoeba."
+
+1536
+02:03:35,822 --> 02:03:38,551
+And I'm sure
+that when you wake up,
+
+1537
+02:03:38,552 --> 02:03:42,295
+you'll have a lot to say
+about why that's a bad name
+
+1538
+02:03:42,296 --> 02:03:44,839
+because it's just
+an amoeba from Tau Ceti,
+
+1539
+02:03:44,840 --> 02:03:46,942
+and we're putting "Tau"
+in front of "amoeba."
+
+1540
+02:03:46,943 --> 02:03:49,882
+But I would argue there's
+an elegance to that.
+
+1541
+02:03:49,883 --> 02:03:51,049
+A simplicity.
+
+1542
+02:03:51,050 --> 02:03:52,888
+Let's not fight about it now.
+
+1543
+02:03:52,889 --> 02:03:55,618
+We'll table it and we'll--
+
+1544
+02:03:55,619 --> 02:03:57,964
+I did a test at different
+atmospheric variables
+
+1545
+02:03:57,965 --> 02:04:01,168
+and, fun fact, every time
+I introduced nitrogen
+
+1546
+02:04:01,169 --> 02:04:02,875
+it died.
+
+1547
+02:04:02,876 --> 02:04:04,438
+And I know
+what you're thinking,
+
+1548
+02:04:04,439 --> 02:04:06,442
+"Well, that's terrible
+because that's a problem
+
+1549
+02:04:06,443 --> 02:04:09,547
+'cause we need it to survive
+in the conditions of Venus."
+
+1550
+02:04:09,548 --> 02:04:11,221
+Obviously, I had to figure out
+how to breed
+
+1551
+02:04:11,222 --> 02:04:13,764
+a new strain of
+nitrogen-resistant Taumoeba.
+
+1552
+02:04:15,164 --> 02:04:16,870
+And guess what I used?
+
+1553
+02:04:16,871 --> 02:04:20,535
+The breeder tanks that we made
+with your xenonite.
+
+1554
+02:04:21,715 --> 02:04:23,244
+And you know what?
+
+1555
+02:04:24,755 --> 02:04:27,022
+Now we're just
+a couple of very cool dudes
+
+1556
+02:04:27,023 --> 02:04:30,766
+with their very own strain of
+nitrogen-resistant Taumoeba.
+
+1557
+02:04:30,767 --> 02:04:32,428
+Really, all we have to do now
+
+1558
+02:04:32,429 --> 02:04:34,972
+is breed enough
+to survive the trip.
+
+1559
+02:04:34,973 --> 02:04:37,042
+And you gotta wake up
+
+1560
+02:04:37,043 --> 02:04:38,341
+because I don't know how to get
+
+1561
+02:04:38,342 --> 02:04:40,311
+your half
+of the Taumoeba to Erid.
+
+1562
+02:04:41,579 --> 02:04:42,855
+So
+
+1563
+02:04:43,517 --> 02:04:45,552
+No pressure
+
+1564
+02:04:46,088 --> 02:04:48,701
+but we did make a deal.
+
+1565
+02:06:08,754 --> 02:06:10,228
+Shh.
+
+1566
+02:06:10,229 --> 02:06:11,625
+Grace?
+
+1567
+02:06:17,144 --> 02:06:19,510
+Rock, could you just
+
+1568
+02:06:19,511 --> 02:06:23,385
+give me a little chance please
+to sleep a little?
+
+1569
+02:06:39,287 --> 02:06:41,388
+Did we find predator?
+
+1570
+02:06:50,210 --> 02:06:52,542
+No? Is yes.
+
+1571
+02:07:09,050 --> 02:07:11,317
+Amaze, amaze, amaze.
+
+1572
+02:07:11,318 --> 02:07:13,651
+Rocky breeder tank design.
+
+1573
+02:07:13,652 --> 02:07:15,193
+Good job, Rock.
+
+1574
+02:07:15,194 --> 02:07:17,658
+We can go home, statement.
+
+1575
+02:07:19,466 --> 02:07:21,039
+We can go home.
+
+1576
+02:07:21,834 --> 02:07:23,737
+Fist my bump.
+
+1577
+02:07:23,738 --> 02:07:25,576
+Nope.
+
+1578
+02:07:25,577 --> 02:07:26,974
+It's still not right.
+
+1579
+02:07:27,543 --> 02:07:30,223
+I'll do it.
+- Good, good, good.
+
+1580
+02:07:30,224 --> 02:07:33,096
+So what we do now, question?
+
+1581
+02:07:37,601 --> 02:07:38,932
+We party.
+
+1582
+02:07:51,200 --> 02:07:52,398
+Wow.
+
+1583
+02:07:53,135 --> 02:07:55,769
+Is special clothing
+for celebration.
+
+1584
+02:07:55,770 --> 02:07:59,843
+You're making me think
+that I have to, uh, up my game.
+
+1585
+02:07:59,844 --> 02:08:02,111
+What is this?
+- If you don't mind.
+
+1586
+02:08:02,112 --> 02:08:04,258
+Rocky get one!
+- There you go.
+
+1587
+02:08:04,259 --> 02:08:06,492
+Is good.
+- Yeah.
+
+1588
+02:08:09,566 --> 02:08:11,635
+It's not much.
+Just a little something.
+
+1589
+02:08:11,636 --> 02:08:13,507
+Your very own laptop.
+
+1590
+02:08:13,508 --> 02:08:15,280
+My portable
+Earth thinking-machine!
+
+1591
+02:08:15,281 --> 02:08:17,449
+With all human knowledge.
+
+1592
+02:08:17,450 --> 02:08:18,583
+Thank, thank, thank.
+
+1593
+02:08:18,584 --> 02:08:19,850
+And just one more thing.
+
+1594
+02:08:19,851 --> 02:08:21,489
+Yes?
+
+1595
+02:08:22,724 --> 02:08:24,265
+What this?
+
+1596
+02:08:24,266 --> 02:08:25,530
+It's Earth.
+
+1597
+02:08:27,404 --> 02:08:29,637
+So you can remember me.
+
+1598
+02:08:38,360 --> 02:08:40,825
+Rocky can't forget.
+
+1599
+02:08:44,570 --> 02:08:46,341
+I didn't get you anything.
+
+1600
+02:08:47,907 --> 02:08:49,512
+You gave me everything.
+
+1601
+02:08:51,551 --> 02:08:53,289
+But if I were to
+give you something?
+
+1602
+02:08:56,859 --> 02:08:59,026
+It'd be pretty cool
+to see your ship.
+
+1603
+02:10:17,624 --> 02:10:19,088
+<i>I understand that you think</i>
+
+1604
+02:10:19,089 --> 02:10:20,926
+I'm the right person
+for this mission.
+
+1605
+02:10:22,733 --> 02:10:24,130
+But
+
+1606
+02:10:28,514 --> 02:10:29,977
+I can't do it.
+
+1607
+02:10:37,499 --> 02:10:38,730
+I can't do it.
+
+1608
+02:10:45,075 --> 02:10:47,210
+You'll find a solution.
+
+1609
+02:10:47,211 --> 02:10:49,081
+You are my solution.
+
+1610
+02:10:54,566 --> 02:10:56,834
+My place
+is in the classroom.
+
+1611
+02:10:56,835 --> 02:10:58,298
+Stop pretending
+this is about your students.
+
+1612
+02:10:58,299 --> 02:10:59,541
+It's so insulting.
+
+1613
+02:11:01,041 --> 02:11:02,613
+Grace, we will lose
+
+1614
+02:11:03,683 --> 02:11:06,589
+a quarter
+of the world's population
+
+1615
+02:11:06,590 --> 02:11:08,020
+in the next 30 years.
+
+1616
+02:11:09,662 --> 02:11:11,831
+And that assumes
+that the nations of the world
+
+1617
+02:11:11,832 --> 02:11:13,933
+work together to ration food.
+
+1618
+02:11:15,267 --> 02:11:16,476
+Which they won't.
+
+1619
+02:11:18,471 --> 02:11:20,144
+So I'd double the estimate.
+
+1620
+02:11:20,145 --> 02:11:21,785
+And if you would
+truly care about the children,
+
+1621
+02:11:21,786 --> 02:11:23,414
+or anyone else for that matter,
+
+1622
+02:11:23,415 --> 02:11:25,087
+you'd get on that ship.
+
+1623
+02:11:29,967 --> 02:11:31,837
+I understand the stakes.
+
+1624
+02:11:33,468 --> 02:11:34,512
+I do.
+
+1625
+02:11:38,687 --> 02:11:40,249
+But I don't have it in me.
+
+1626
+02:11:45,734 --> 02:11:48,166
+My mind is made up.
+
+1627
+02:11:52,143 --> 02:11:53,616
+I'm sorry, but, uh
+
+1628
+02:11:56,019 --> 02:11:58,219
+But you just can't talk me
+into it.
+
+1629
+02:11:59,157 --> 02:12:00,829
+I'm sorry.
+
+1630
+02:12:01,698 --> 02:12:04,572
+I'm not trying
+to talk you into anything.
+
+1631
+02:12:06,237 --> 02:12:08,008
+I am
+
+1632
+02:12:09,045 --> 02:12:11,752
+trying to make you understand
+
+1633
+02:12:12,822 --> 02:12:14,317
+what I'm about to do next.
+
+1634
+02:12:15,057 --> 02:12:16,619
+Yeah? Please.
+
+1635
+02:12:16,620 --> 02:12:18,732
+Stay calm. Come in.
+
+1636
+02:12:22,599 --> 02:12:24,107
+What is this?
+
+1637
+02:12:24,108 --> 02:12:25,714
+Mission plan will state that
+
+1638
+02:12:25,715 --> 02:12:28,115
+we induced your coma early
+to maximize your safety.
+
+1639
+02:12:28,116 --> 02:12:29,413
+You will be remembered
+as a hero.
+
+1640
+02:12:30,516 --> 02:12:32,354
+Come on. This is crazy.
+
+1641
+02:12:32,355 --> 02:12:34,226
+I have to do it.
+- You're not
+
+1642
+02:12:34,227 --> 02:12:36,395
+Come on. What are you doing?
+
+1643
+02:12:36,396 --> 02:12:39,269
+This may seem
+like me betraying you,
+
+1644
+02:12:39,270 --> 02:12:40,976
+but it's actually
+me believing in you.
+
+1645
+02:12:40,977 --> 02:12:42,980
+Sure feels like
+you're betraying me.
+
+1646
+02:12:42,981 --> 02:12:44,719
+Don't make this harder, please.
+
+1647
+02:12:44,720 --> 02:12:46,150
+Come on, guys.
+
+1648
+02:12:49,092 --> 02:12:51,061
+Let's keep talking about it.
+
+1649
+02:12:54,003 --> 02:12:55,630
+Sit down
+and we do it differently.
+
+1650
+02:13:04,023 --> 02:13:05,386
+Yeah, he's running.
+
+1651
+02:13:19,956 --> 02:13:23,963
+No. No.
+
+1652
+02:13:23,964 --> 02:13:27,905
+Carl. I can't do it.
+
+1653
+02:13:27,906 --> 02:13:29,369
+No!
+
+1654
+02:13:29,370 --> 02:13:32,242
+Don't do it!
+Don't do it! Don't do it.
+
+1655
+02:13:33,918 --> 02:13:35,248
+You know who you are.
+
+1656
+02:13:36,714 --> 02:13:37,782
+Carl!
+
+1657
+02:13:37,783 --> 02:13:39,322
+You're gonna do great.
+
+1658
+02:14:11,520 --> 02:14:14,425
+I'm trying to think
+if there's anything I forgot.
+
+1659
+02:14:17,664 --> 02:14:19,370
+Fuel tank fix okay, question?
+
+1660
+02:14:19,371 --> 02:14:20,868
+Oh, yeah, yeah.
+They're working great.
+
+1661
+02:14:20,869 --> 02:14:23,245
+Oh, good.
+Happy, happy, happy.
+
+1662
+02:14:27,354 --> 02:14:28,684
+Well
+
+1663
+02:14:30,966 --> 02:14:32,363
+My friend.
+
+1664
+02:14:32,364 --> 02:14:34,399
+Yes, friend?
+
+1665
+02:14:35,767 --> 02:14:39,013
+I'm not sure
+what to say, so just gonna
+
+1666
+02:14:47,526 --> 02:14:48,625
+Grace?
+
+1667
+02:14:52,173 --> 02:14:53,911
+No one to watch you sleep.
+
+1668
+02:14:55,278 --> 02:14:56,608
+Yeah.
+
+1669
+02:14:58,185 --> 02:15:01,486
+You are very brave.
+
+1670
+02:15:03,657 --> 02:15:05,935
+Oh, I don't know about that.
+
+1671
+02:15:08,304 --> 02:15:12,013
+You are bravest human
+I have ever met.
+
+1672
+02:15:13,545 --> 02:15:14,844
+Hey.
+
+1673
+02:15:14,845 --> 02:15:17,156
+Is joke.
+- I know.
+
+1674
+02:15:17,157 --> 02:15:20,327
+I only meet one human,
+and is you!
+
+1675
+02:15:20,328 --> 02:15:21,593
+I get it.
+
+1676
+02:15:21,594 --> 02:15:22,860
+It's a good joke.
+
+1677
+02:15:22,861 --> 02:15:24,170
+Good joke.
+
+1678
+02:15:24,171 --> 02:15:26,602
+All right. Well
+
+1679
+02:15:31,879 --> 02:15:32,912
+Goodbye.
+
+1680
+02:15:34,257 --> 02:15:36,359
+No understand word.
+
+1681
+02:15:36,360 --> 02:15:39,596
+Means, uh, see you later.
+
+1682
+02:15:39,597 --> 02:15:41,236
+But I won't see you later.
+
+1683
+02:15:46,006 --> 02:15:47,347
+I know.
+
+1684
+02:15:49,915 --> 02:15:51,918
+How do you say
+goodbye back home?
+
+1685
+02:15:51,919 --> 02:15:53,228
+We don't.
+
+1686
+02:15:53,229 --> 02:15:54,725
+Hmm.
+
+1687
+02:15:54,726 --> 02:15:56,024
+We do this.
+
+1688
+02:17:48,459 --> 02:17:50,121
+<i>Journey to Earth</i>
+
+1689
+02:17:50,122 --> 02:17:54,502
+<i>will take 4 years,
+2 months and 11 days.</i>
+
+1690
+02:18:09,898 --> 02:18:11,901
+<i>Lava! Lava!</i>
+
+1691
+02:18:11,902 --> 02:18:13,133
+Lava!
+
+1692
+02:18:49,339 --> 02:18:51,517
+<i>Contaminant detected.</i>
+
+1693
+02:18:53,017 --> 02:18:55,492
+<i>Contaminant detected.</i>
+
+1694
+02:18:57,531 --> 02:19:04,576
+<i>Contaminant detected.</i>
+
+1695
+02:19:05,371 --> 02:19:07,340
+<i>Contaminant detected.</i>
+
+1696
+02:19:08,377 --> 02:19:10,489
+<i>Contaminant detected.</i>
+
+1697
+02:19:51,838 --> 02:19:53,036
+<i>There's a leak.</i>
+
+1698
+02:19:54,844 --> 02:19:57,309
+<i>The problem is the xenonite.</i>
+
+1699
+02:19:57,310 --> 02:19:59,180
+<i>The Taumoeba
+can get through it.</i>
+
+1700
+02:20:00,050 --> 02:20:03,057
+<i>Probably 'cause we bred it
+in the xenonite breeder tanks,</i>
+
+1701
+02:20:03,058 --> 02:20:04,764
+<i>it evolved to escape it.</i>
+
+1702
+02:20:04,765 --> 02:20:06,602
+<i>I was able to stop it</i>
+
+1703
+02:20:06,603 --> 02:20:08,903
+<i>before it ate all the
+Astrophage on the ship.</i>
+
+1704
+02:20:10,843 --> 02:20:12,812
+Rocky's ship
+is built of xenonite.
+
+1705
+02:20:14,113 --> 02:20:17,316
+The Taumoeba will already
+be in his fuel lines.
+
+1706
+02:20:17,317 --> 02:20:18,891
+And he won't be able
+to find the leak
+
+1707
+02:20:18,892 --> 02:20:21,060
+because the leak
+is the ship itself.
+
+1708
+02:20:21,061 --> 02:20:24,804
+He'll be without any fuel.
+Stranded.
+
+1709
+02:20:24,805 --> 02:20:27,533
+His life support systems
+will fail.
+
+1710
+02:20:29,749 --> 02:20:32,753
+And if that doesn't kill him,
+the radiation sickness will.
+
+1711
+02:20:36,091 --> 02:20:37,663
+He's looking at a long
+
+1712
+02:20:38,491 --> 02:20:39,634
+slow
+
+1713
+02:20:41,938 --> 02:20:43,268
+painful death
+
+1714
+02:20:45,373 --> 02:20:46,538
+alone.
+
+1715
+02:21:10,357 --> 02:21:11,831
+<i>I can't do both.</i>
+
+1716
+02:21:13,264 --> 02:21:15,167
+<i>I can go home</i>
+
+1717
+02:21:18,637 --> 02:21:20,045
+<i>or I can save Rocky.</i>
+
+1718
+02:21:39,988 --> 02:21:42,861
+<i>I've sent you detailed logs
+of all of our findings.</i>
+
+1719
+02:21:42,862 --> 02:21:44,832
+<i>And enough Taumoeba for you</i>
+
+1720
+02:21:44,833 --> 02:21:50,403
+<i>to start
+your very own Taumoeba farm.</i>
+
+1721
+02:21:50,404 --> 02:21:52,077
+<i>At least I never have
+to hear you say,</i>
+
+1722
+02:21:52,078 --> 02:21:53,441
+<i>"I told you so."</i>
+
+1723
+02:21:55,084 --> 02:21:56,513
+Even though you were right.
+
+1724
+02:24:22,510 --> 02:24:23,907
+Rocky!
+
+1725
+02:24:29,689 --> 02:24:31,196
+Hey!
+
+1726
+02:24:38,443 --> 02:24:40,676
+Come on, Rock!
+
+1727
+02:25:39,191 --> 02:25:41,094
+I'm here, buddy.
+
+1728
+02:26:03,712 --> 02:26:05,616
+<i>Earth, Rocky.</i>
+
+1729
+02:26:05,617 --> 02:26:07,389
+<i>Rocky, Earth.</i>
+
+1730
+02:26:07,390 --> 02:26:10,087
+<i>Hello, Earth. I am Rocky.</i>
+
+1731
+02:26:10,088 --> 02:26:11,794
+<i>I am Rocky from Erid.</i>
+
+1732
+02:26:11,795 --> 02:26:14,601
+<i>I am not Rocky from movie.
+No, no, no, no.</i>
+
+1733
+02:26:14,602 --> 02:26:16,638
+<i>I'm pretty sure they know that.</i>
+
+1734
+02:26:16,639 --> 02:26:19,303
+<i>I've left you detailed logs
+of all of our findings</i>
+
+1735
+02:26:19,304 --> 02:26:22,649
+<i>and I threw in a little
+something else just for fun.</i>
+
+1736
+02:26:24,887 --> 02:26:26,823
+<i>Hopefully it all makes sense.</i>
+
+1737
+02:26:27,529 --> 02:26:28,894
+<i>And if not</i>
+
+1738
+02:26:28,895 --> 02:26:30,434
+<i>You're smart.</i>
+
+1739
+02:26:31,163 --> 02:26:32,405
+<i>You'll figure it out.</i>
+
+1740
+02:26:34,235 --> 02:26:36,745
+<i>This is
+Dr. Captain Ryland Grace</i>
+
+1741
+02:26:36,746 --> 02:26:38,308
+<i>reporting from the</i> Hail Mary.
+
+1742
+02:26:38,309 --> 02:26:40,245
+<i>As the Eridians say</i>
+
+1743
+02:26:57,182 --> 02:26:58,281
+Let's begin.
+
+1744
+02:27:50,762 --> 02:27:52,125
+Good morning, Armando.
+
+1745
+02:27:53,569 --> 02:27:55,230
+You shouldn't have.
+
+1746
+02:28:00,209 --> 02:28:01,584
+That's a noogie.
+
+1747
+02:28:01,585 --> 02:28:03,213
+I'm coming!
+
+1748
+02:28:12,332 --> 02:28:13,673
+Why you always
+gotta be so early?
+
+1749
+02:28:15,338 --> 02:28:18,474
+Yeah. I know,
+and I ignored you.
+
+1750
+02:28:19,478 --> 02:28:21,756
+Yeah. Okay.
+
+1751
+02:28:22,358 --> 02:28:24,629
+Why? I thought
+this was a safe neighborhood.
+
+1752
+02:28:26,228 --> 02:28:28,968
+Okay. It's just,
+Armando likes the fresh air.
+
+1753
+02:28:43,031 --> 02:28:45,330
+Can we talk about the water
+temperature a little bit?
+
+1754
+02:28:46,367 --> 02:28:47,709
+It's amazing.
+
+1755
+02:28:47,710 --> 02:28:49,107
+Just that
+you've done it at all.
+
+1756
+02:28:50,243 --> 02:28:51,441
+Very cold.
+
+1757
+02:28:52,445 --> 02:28:54,448
+And, before, it was boiling.
+
+1758
+02:28:54,449 --> 02:28:56,088
+Is there an in between?
+
+1759
+02:29:04,535 --> 02:29:07,375
+Please tell
+the biodome illumination team
+
+1760
+02:29:07,376 --> 02:29:09,312
+that it's perfect now.
+
+1761
+02:29:12,254 --> 02:29:14,158
+Oh, no, this is
+
+1762
+02:29:14,159 --> 02:29:16,557
+You know
+I'm a sucker for the fog.
+
+1763
+02:29:26,612 --> 02:29:28,923
+Yeah, pal.
+
+1764
+02:29:41,885 --> 02:29:43,854
+Can I think about it?
+
+1765
+02:30:34,121 --> 02:30:37,390
+Good morning, class.
+
+1766
+02:30:37,391 --> 02:30:40,836
+Okay.
+Everyone take their seats.
+
+1767
+02:30:41,696 --> 02:30:43,137
+Let's wake up.
+
+1768
+02:30:47,048 --> 02:30:48,675
+Who can tell me
+the speed of light?
+
